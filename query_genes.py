@@ -13,8 +13,7 @@ def query(gene_name):
         "search": gene_name,
         "format": "json",
         "columns": "g,gs,di,pe,scml,scal,relc",
-        "compress": "no"
-        
+        "compress": "no"        
     })
     response.raise_for_status()
     return json.loads(response.text)
@@ -28,7 +27,6 @@ def main():
     with open(args.names) as f:
         for row in csv.reader(f):
             row_id, gene = row
-            print(row_id, gene)
             try:
                 print("Querying: {}".format(gene))
                 result = query(gene)
