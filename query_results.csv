@@ -1,0 +1,803 @@
+row,gene_name,Disease involvement,Ensembl,Evidence,Gene,Gene synonym,Subcellular additional location,Subcellular main location
+P13647,KRT5,"[u'Disease variant', u'Epidermolysis bullosa']",ENSG00000186081,Evidence at protein level,KRT5,"[u'EBS2', u'KRT5A']",None,[u'Intermediate filaments']
+P13746,HLA-A,[u'Cancer-related genes'],ENSG00000206503,Evidence at protein level,HLA-A,[],[u'Golgi apparatus'],[u'Plasma membrane']
+M0R2P6,SHKBP1,None,ENSG00000160410,Evidence at protein level,SHKBP1,"[u'PP203', u'Sb1']",None,[u'Cell Junctions']
+Q15036,SNX17,None,ENSG00000115234,Evidence at protein level,SNX17,[u'KIAA0064'],[u'Cytosol'],[u'Vesicles']
+Q99942,RNF5,None,ENSG00000204308,Evidence at protein level,RNF5,"[u'G16', u'NG2', u'RING5', u'RMA1']",None,[u'Endoplasmic reticulum']
+P14406,COX7A2,None,ENSG00000112695,Evidence at transcript level,COX7A2,"[u'COX7AL', u'COXVIIa-L']",None,None
+Q92982,NINJ1,None,ENSG00000131669,Evidence at protein level,NINJ1,[u'NIN1'],None,None
+E5RFJ8,MCM4,None,ENSG00000104738,Evidence at protein level,MCM4,"[u'CDC21', u'CDC54', u'hCdc21', u'MGC33310', u'P1-Cdc21']",None,[u'Nucleoplasm']
+Q12802,AKAP13,[u'Proto-oncogene'],ENSG00000170776,Evidence at protein level,AKAP13,"[u'AKAP-Lbc', u'ARHGEF13', u'BRX', u'c-lbc', u'HA-3', u'Ht31', u'LBC', u'PROTO-LB']",None,[u'Cytosol']
+K7ERW1,OAZ1,None,ENSG00000104904,Evidence at protein level,OAZ1,"[u'AZ1', u'AZI', u'MGC138338', u'OAZ']",[u'Centriolar satellite'],[u'Vesicles']
+O60814,HIST1H2BK,None,ENSG00000197903,Evidence at protein level,H2BC12,"[u'H2BFAiii', u'H2BFT', u'HIST1H2BK']",[u'Cytosol'],[u'Nucleoplasm']
+Q5JUQ2,FAM78A,None,ENSG00000126882,Evidence at protein level,FAM78A,"[u'C9orf59', u'FLJ00024']",None,"[u'Nucleoplasm', u'Vesicles']"
+P51003,PAPOLA,None,ENSG00000090060,Evidence at protein level,PAPOLA,[u'PAP'],None,[u'Nucleoplasm']
+Q5QNW6,HIST2H2BF,None,ENSG00000203814,Evidence at protein level,H2BC18,[u'HIST2H2BF'],[u'Cytosol'],[u'Nucleoplasm']
+Q9UQ88,CDK11A,None,ENSG00000008128,Evidence at protein level,CDK11A,"[u'CDC2L2', u'CDC2L3', u'CDK11-p110', u'CDK11-p46', u'CDK11-p58', u'p58GTA', u'PITSLRE']",[u'Cytosol'],[u'Nuclear speckles']
+Q7Z403-2,TMC6,None,ENSG00000141524,Evidence at protein level,TMC6,"[u'EVER1', u'EVIN1', u'LAK-4P', u'TNRC6C-AS1']",None,None
+Q15149,PLEC,"[u'Cancer-related genes', u'Disease variant', u'Epidermolysis bullosa', u'Limb-girdle muscular dystrophy']",ENSG00000178209,Evidence at protein level,PLEC,"[u'EBS1', u'PCN', u'PLEC1', u'PLTN']",[u'Focal adhesion sites'],"[u'Intermediate filaments', u'Cytosol']"
+F6RFD5,DSTN,None,ENSG00000125868,Evidence at protein level,DSTN,"[u'ACTDP', u'ADF']",None,None
+Q9P2E3,ZNFX1,None,ENSG00000124201,Evidence at protein level,ZNFX1,"[u'FLJ11277', u'KIAA1404']",None,[u'Mitochondria']
+E9PR89,SGK1,[u'Cancer-related genes'],ENSG00000118515,Evidence at protein level,SGK1,[u'SGK'],None,[u'Nuclear speckles']
+Q8TAQ2,SMARCC2,"[u'Disease variant', u'Mental retardation']",ENSG00000139613,Evidence at protein level,SMARCC2,"[u'BAF170', u'CRACC2', u'Rsc8']",None,[u'Nucleoplasm']
+Q99728,BARD1,[u'Cancer-related genes'],ENSG00000138376,Evidence at protein level,BARD1,[],[u'Cytoplasmic bodies'],"[u'Nucleoplasm', u'Nuclear speckles']"
+Q6E0U4,DMKN,None,ENSG00000161249,Evidence at protein level,DMKN,[u'ZD52F10'],None,"[u'Nucleoplasm', u'Cytosol']"
+Q14683,SMC1A,"[u'Cancer-related genes', u'Disease variant', u'Epilepsy', u'Mental retardation']",ENSG00000072501,Evidence at protein level,SMC1A,"[u'DXS423E', u'KIAA0178', u'SB1.8', u'SMC1L1', u'Smcb']",None,[u'Nucleoplasm']
+A0A0G2JS92,VPS11,"[u'Disease variant', u'Leukodystrophy']",ENSG00000160695,Evidence at protein level,VPS11,"[u'PEP5', u'RNF108']",None,[u'Cytosol']
+Q9P0J0-2,NDUFA13,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000186010,Evidence at protein level,NDUFA13,"[u'B16.6', u'CDA016', u'CGI-39', u'GRIM-19', u'GRIM19']",None,[u'Mitochondria']
+P20020-2,ATP2B1,[u'FDA approved drug targets'],ENSG00000070961,Evidence at protein level,ATP2B1,[u'PMCA1'],None,[u'Plasma membrane']
+Q99717,SMAD5,None,ENSG00000113658,Evidence at protein level,SMAD5,"[u'Dwfc', u'JV5-1', u'MADH5']",[u'Cytosol'],[u'Nucleoplasm']
+O95319-4,CELF2,None,ENSG00000048740,Evidence at protein level,CELF2,"[u'BRUNOL3', u'CUGBP2', u'Etr-3', u'NAPOR-2']","[u'Vesicles', u'Midbody ring']",[u'Nucleoplasm']
+Q13243,SRSF5,None,ENSG00000100650,Evidence at protein level,SRSF5,"[u'HRS', u'SFRS5', u'SRP40']","[u'Nucleoli', u'Cytosol']",[u'Nucleoplasm']
+Q10570,CPSF1,[u'Disease variant'],ENSG00000071894,Evidence at protein level,CPSF1,[u'CPSF160'],None,[u'Nucleoplasm']
+P18463,HLA-B,[u'Cancer-related genes'],ENSG00000234745,Evidence at protein level,HLA-B,[u'AS'],None,None
+F8W7G9,MSH6,"[u'Cancer-related genes', u'Disease variant', u'Hereditary nonpolyposis colorectal cancer']",ENSG00000116062,Evidence at protein level,MSH6,[u'GTBP'],"[u'Golgi apparatus', u'Vesicles']",[u'Nucleoplasm']
+O60841,EIF5B,None,ENSG00000158417,Evidence at protein level,EIF5B,"[u'DKFZp434I036', u'FLJ10524', u'IF2', u'KIAA0741']",[u'Plasma membrane'],[u'Cytosol']
+A0A0D9SEM4,SRSF4,None,ENSG00000116350,Evidence at protein level,SRSF4,"[u'SFRS4', u'SRP75']",None,[u'Nuclear speckles']
+O43292,GPAA1,[u'Disease variant'],ENSG00000197858,Evidence at protein level,GPAA1,"[u'GAA1', u'hGAA1']","[u'Centrosome', u'Mitochondria']","[u'Endoplasmic reticulum', u'Cytosol']"
+Q92611,EDEM1,None,ENSG00000134109,Evidence at protein level,EDEM1,"[u'EDEM', u'KIAA0212']",[u'Aggresome'],[u'Endoplasmic reticulum']
+Q6P3W7,SCYL2,[u'Disease variant'],ENSG00000136021,Evidence at protein level,SCYL2,"[u'CVAK104', u'KIAA1360']",None,None
+P00450,CP,[u'Cancer-related genes'],ENSG00000047457,Evidence at protein level,CP,[],None,None
+P62195,PSMC5,None,ENSG00000087191,Evidence at protein level,PSMC5,"[u'p45', u'p45/SUG', u'S8', u'SUG-1', u'SUG1', u'TBP10', u'TRIP1']",None,"[u'Plasma membrane', u'Cytosol']"
+O95671,ASMTL,None,ENSG00000169093,Evidence at protein level,ASMTL,[],None,[u'Cytosol']
+Q6ZNJ1,NBEAL2,None,ENSG00000160796,Evidence at protein level,NBEAL2,[u'KIAA0540'],None,None
+Q9P2J3,KLHL9,None,ENSG00000198642,Evidence at protein level,KLHL9,"[u'FLJ13568', u'KIAA1354']",None,[u'Cytosol']
+H0YHU2,TMEM106C,None,ENSG00000134291,Evidence at protein level,TMEM106C,[u'MGC5576'],None,None
+Q14697,GANAB,"[u'Disease variant', u'FDA approved drug targets']",ENSG00000089597,Evidence at protein level,GANAB,"[u'G2AN', u'GIIA', u'GluII', u'KIAA0088']",None,[u'Endoplasmic reticulum']
+Q7L576,CYFIP1,None,ENSG00000273749,Evidence at protein level,CYFIP1,"[u'KIAA0068', u'P140SRA-1', u'SHYC']",None,None
+Q9BSJ2,TUBGCP2,"[u'Disease variant', u'Epilepsy', u'Lissencephaly', u'Mental retardation']",ENSG00000130640,Evidence at protein level,TUBGCP2,"[u'GCP2', u'SPBC97', u'Spc97p']",None,"[u'Nucleoplasm', u'Centrosome']"
+Q8NEZ4,KMT2C,"[u'Cancer-related genes', u'Disease variant', u'Mental retardation']",ENSG00000055609,Evidence at protein level,KMT2C,"[u'HALR', u'KIAA1506', u'MLL3']",None,[u'Nucleoplasm']
+Q96TA2,YME1L1,[u'Disease variant'],ENSG00000136758,Evidence at protein level,YME1L1,[u'YME1L'],[u'Nuclear bodies'],[u'Mitochondria']
+Q13049,TRIM32,"[u'Bardet-Biedl syndrome', u'Ciliopathy', u'Disease variant', u'Limb-girdle muscular dystrophy', u'Mental retardation', u'Obesity']",ENSG00000119401,Evidence at protein level,TRIM32,"[u'BBS11', u'HT2A', u'LGMD2H', u'TATIP']",None,[u'Intermediate filaments']
+Q9UFW8,CGGBP1,None,ENSG00000163320,Evidence at protein level,CGGBP1,"[u'CGGBP', u'p20-CGGBP']",None,[u'Nucleoplasm']
+P02545,LMNA,"[u'Cancer-related genes', u'Cardiomyopathy', u'Charcot-Marie-Tooth disease', u'Congenital muscular dystrophy', u'Disease variant', u'Emery-Dreifuss muscular dystrophy', u'Limb-girdle muscular dystrophy', u'Neurodegeneration', u'Neuropathy']",ENSG00000160789,Evidence at protein level,LMNA,"[u'CMD1A', u'HGPS', u'LGMD1B', u'LMN1', u'LMNL1', u'MADA', u'PRO1']",None,[u'Nuclear speckles']
+Q9C0C9,UBE2O,None,ENSG00000175931,Evidence at protein level,UBE2O,[u'E2-230K'],[u'Nucleoplasm'],[u'Nuclear bodies']
+Q9H5I5,PIEZO2,[u'Disease variant'],ENSG00000154864,Evidence at protein level,PIEZO2,"[u'C18orf30', u'C18orf58', u'FAM38B', u'FAM38B2', u'FLJ23144', u'FLJ23403', u'FLJ34907', u'HsT748', u'HsT771']",None,"[u'Plasma membrane', u'Cytosol']"
+Q12778,FOXO1,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000150907,Evidence at protein level,FOXO1,"[u'FKH1', u'FKHR', u'FOXO1A']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q93063,EXT2,"[u'Cancer-related genes', u'Disease variant', u'Epilepsy', u'Hereditary multiple exostoses', u'Mental retardation', u'Tumor suppressor']",ENSG00000151348,Evidence at protein level,EXT2,[u'SOTV'],None,[u'Golgi apparatus']
+Q5M775,SPECC1,[u'Proto-oncogene'],ENSG00000128487,Evidence at protein level,SPECC1,"[u'CYTSB', u'FLJ36955', u'HCMOGT-1', u'NSP']","[u'Nucleoli fibrillar center', u'Cytosol']","[u'Nucleoplasm', u'Vesicles']"
+H0Y2P0,CD44,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000026508,Evidence at protein level,CD44,"[u'CD44R', u'CSPG8', u'HCELL', u'IN', u'MC56', u'MDU2', u'MDU3', u'MIC4', u'Pgp1']",[u'Golgi apparatus'],[u'Plasma membrane']
+Q9NZL6,RGL1,None,ENSG00000143344,Evidence at protein level,RGL1,[u'RGL'],None,"[u'Nucleoplasm', u'Golgi apparatus', u'Vesicles']"
+Q9NU19,TBC1D22B,None,ENSG00000065491,Evidence at protein level,TBC1D22B,"[u'C6orf197', u'dJ744I24.2', u'FLJ20337']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q9NYF5,FAM13B,None,ENSG00000031003,Evidence at protein level,FAM13B,"[u'ARHGAP49', u'C5orf5', u'FAM13B1', u'KHCHP', u'N61']",None,[u'Nucleoplasm']
+Q13206,DDX10,[u'Cancer-related genes'],ENSG00000178105,Evidence at protein level,DDX10,"[u'Dbp4', u'HRH-J8']",None,[u'Nucleoli']
+Q16666-6,IFI16,None,ENSG00000163565,Evidence at protein level,IFI16,"[u'IFNGIP1', u'PYHIN2']",[u'Cytosol'],"[u'Nucleoplasm', u'Nucleoli']"
+E7EWW9,GSTM1,[u'Cancer-related genes'],ENSG00000134184,Evidence at protein level,GSTM1,"[u'GST1', u'H-B', u'MU']",[u'Cytokinetic bridge'],[u'Cytosol']
+Q92794,KAT6A,"[u'Cancer-related genes', u'Mental retardation', u'Proto-oncogene']",ENSG00000083168,Evidence at protein level,KAT6A,"[u'MOZ', u'MYST3', u'RUNXBP2', u'ZC2HC6A', u'ZNF220']","[u'Nucleoli', u'Cytosol']",[u'Nuclear speckles']
+Q8N1F8,STK11IP,None,ENSG00000144589,Evidence at protein level,STK11IP,"[u'KIAA1898', u'LIP1', u'LKB1IP', u'STK11IP1']",None,[u'Vesicles']
+P49840,GSK3A,"[u'Alzheimer disease', u'Cancer-related genes', u'Diabetes mellitus']",ENSG00000105723,Evidence at protein level,GSK3A,[],None,[u'Cytosol']
+Q4VC44,FLYWCH1,None,ENSG00000059122,Evidence at protein level,FLYWCH1,[u'DKFZp761A132'],"[u'Nucleoplasm', u'Cytosol']",[u'Nuclear bodies']
+Q6V0I7,FAT4,"[u'Cancer-related genes', u'Deafness', u'Disease variant', u'Mental retardation']",ENSG00000196159,Evidence at protein level,FAT4,"[u'CDHF14', u'CDHR11', u'FAT-J']",None,[u'Cytosol']
+Q9NP61,ARFGAP3,None,ENSG00000242247,Evidence at protein level,ARFGAP3,[u'ARFGAP1'],[u'Golgi apparatus'],[u'Cytosol']
+Q9P243,ZFAT,None,ENSG00000066827,Evidence at protein level,ZFAT,"[u'KIAA1485', u'ZFAT1', u'ZNF406']",[u'Nucleoplasm'],[u'Nuclear bodies']
+Q9H444,CHMP4B,"[u'Cataract', u'Disease variant']",ENSG00000101421,Evidence at protein level,CHMP4B,"[u'C20orf178', u'dJ553F4.4', u'Shax1', u'SNF7-2', u'VPS32B']",None,None
+Q6NW34,NEPRO,"[u'Disease variant', u'Dwarfism']",ENSG00000163608,Evidence at protein level,NEPRO,"[u'C3orf17', u'DKFZP434F2021', u'NET17']",None,"[u'Nucleoplasm', u'Nucleoli']"
+P19419,ELK1,None,ENSG00000126767,Evidence at protein level,ELK1,[],None,[u'Nucleoplasm']
+Q9Y5H4,PCDHGA1,None,ENSG00000204956,Evidence at transcript level,PCDHGA1,[u'PCDH-GAMMA-A1'],"[u'Nucleoplasm', u'Cytosol']","[u'Vesicles', u'Plasma membrane']"
+A0A0U1RRE5,LINC01420,None,ENSG00000204272,Evidence at protein level,NBDY,"[u'LINC01420', u'NoBody']",None,None
+Q02809,PLOD1,"[u'Disease variant', u'Ehlers-Danlos syndrome']",ENSG00000083444,Evidence at protein level,PLOD1,"[u'LH1', u'LLH', u'PLOD']",[u'Nucleoplasm'],[u'Vesicles']
+P16403,HIST1H1C,None,ENSG00000187837,Evidence at protein level,H1-2,"[u'H1.2', u'H1c', u'H1F2', u'H1s-1', u'HIST1H1C']",None,"[u'Nucleoplasm', u'Nucleoli rim']"
+Q6P589,TNFAIP8L2,None,ENSG00000163154,Evidence at protein level,TNFAIP8L2,[u'FLJ23467'],None,[u'Vesicles']
+A0A024QZ42,PDCD6,None,ENSG00000249915,Evidence at protein level,PDCD6,"[u'ALG-2', u'PEF1B']",[u'Nucleoplasm'],[u'Cytosol']
+A0A1B0GUS7,UNC13B,None,ENSG00000198722,Evidence at protein level,UNC13B,"[u'hmunc13', u'Munc13-2', u'UNC13', u'Unc13h2']","[u'Nucleoplasm', u'Golgi apparatus', u'Intermediate filaments']",[u'Vesicles']
+P55058,PLTP,None,ENSG00000100979,Evidence at protein level,PLTP,[u'BPIFE'],None,None
+A0A0U1RRL5,ELF1,None,ENSG00000120690,Evidence at protein level,ELF1,[],None,[u'Nucleoplasm']
+Q96PQ6,ZNF317,None,ENSG00000130803,Evidence at protein level,ZNF317,[],None,[u'Nucleoplasm']
+Q9NW64,RBM22,None,ENSG00000086589,Evidence at protein level,RBM22,"[u'Cwc2', u'FLJ10290', u'fSAP47', u'ZC3H16']",None,[u'Nucleoplasm']
+Q8N8A2-4,ANKRD44,None,ENSG00000065413,Evidence at protein level,ANKRD44,[u'PP6-ARS-B'],[u'Nuclear speckles'],[u'Mitochondria']
+M0QZK8,,None,ENSG00000121410,Evidence at protein level,A1BG,[],None,None
+Q96HW7,INTS4,None,ENSG00000149262,Evidence at protein level,INTS4,"[u'INT4', u'MGC16733', u'MST093']",None,[u'Nucleoli rim']
+Q9Y696,CLIC4,None,ENSG00000169504,Evidence at protein level,CLIC4,"[u'CLIC4L', u'DKFZP566G223', u'H1', u'huH1', u'P64H1']",None,"[u'Plasma membrane', u'Centrosome']"
+G3V1P5,MED15,None,ENSG00000099917,Evidence at protein level,MED15,"[u'Arc105', u'CAG7A', u'PCQAP', u'TIG-1', u'TNRC7']",None,[u'Nucleoplasm']
+P43250,GRK6,None,ENSG00000198055,Evidence at protein level,GRK6,[u'GPRK6'],None,[u'Mitochondria']
+Q96L91,EP400,None,ENSG00000183495,Evidence at protein level,EP400,"[u'CAGH32', u'DKFZP434I225', u'KIAA1498', u'KIAA1818', u'P400', u'TNRC12']",None,[u'Nucleoplasm']
+X6R3U4,PLEKHH3,None,ENSG00000068137,Evidence at protein level,PLEKHH3,[u'FLJ21019'],None,[u'Golgi apparatus']
+H0YBS1,INTS8,"[u'Disease variant', u'Mental retardation']",ENSG00000164941,Evidence at protein level,INTS8,"[u'C8orf52', u'FLJ20530', u'INT8', u'MGC131633']",None,[u'Nucleoplasm']
+P61513,RPL37A,None,ENSG00000197756,Evidence at protein level,RPL37A,[u'L37A'],None,"[u'Endoplasmic reticulum', u'Cytosol']"
+F5H552,RIMKLB,None,ENSG00000166532,Evidence at protein level,RIMKLB,"[u'FAM80B', u'KIAA1238', u'NAAGS', u'NAAGS-I']",None,"[u'Nucleoplasm', u'Centriolar satellite']"
+O95486,SEC24A,None,ENSG00000113615,Evidence at protein level,SEC24A,[],None,"[u'Nucleoli fibrillar center', u'Vesicles']"
+Q96PU8,QKI,[u'Cancer-related genes'],ENSG00000112531,Evidence at protein level,QKI,[u'QK3'],None,[u'Nucleoplasm']
+O75911,DHRS3,None,ENSG00000162496,Evidence at protein level,DHRS3,"[u'RDH17', u'retSDR1', u'Rsdr1', u'SDR1', u'SDR16C1']",None,"[u'Nucleoli', u'Mitochondria']"
+O60343,TBC1D4,[u'Diabetes mellitus'],ENSG00000136111,Evidence at protein level,TBC1D4,"[u'AS160', u'DKFZp779C0666', u'KIAA0603']",None,[u'Cytosol']
+H3BU23,CDR2,None,ENSG00000140743,Evidence at protein level,CDR2,"[u'CDR62', u'Yo']",None,[u'Nucleoplasm']
+Q5VWZ2-2,LYPLAL1,None,ENSG00000143353,Evidence at protein level,LYPLAL1,[u'Q96AV0'],None,[u'Cytosol']
+Q8WXX7,AUTS2,"[u'Autism', u'Autism spectrum disorder', u'Mental retardation']",ENSG00000158321,Evidence at protein level,AUTS2,"[u'FBRSL2', u'KIAA0442']",[u'Cytosol'],[u'Nucleoplasm']
+P38435,GGCX,"[u'Disease variant', u'FDA approved drug targets']",ENSG00000115486,Evidence at protein level,GGCX,[u'VKCFD1'],None,None
+Q13177,PAK2,None,ENSG00000180370,Evidence at protein level,PAK2,"[u'PAK65', u'PAKgamma']",None,"[u'Nucleoplasm', u'Vesicles']"
+B4DY09,ILF2,None,ENSG00000143621,Evidence at protein level,ILF2,[u'NF45'],None,[u'Nucleoplasm']
+Q9Y2L9-2,LRCH1,None,ENSG00000136141,Evidence at protein level,LRCH1,"[u'CHDC1', u'KIAA1016']",[u'Nucleoli'],"[u'Actin filaments', u'Cytosol']"
+Q12873-3,CHD3,"[u'Disease variant', u'Mental retardation']",ENSG00000170004,Evidence at protein level,CHD3,"[u'Mi-2a', u'Mi2-ALPHA', u'ZFH']",[u'Centriolar satellite'],"[u'Nucleoplasm', u'Nucleoli']"
+F8VXU5,VPS29,None,ENSG00000111237,Evidence at protein level,VPS29,"[u'DC15', u'DC7', u'PEP11']",None,"[u'Vesicles', u'Cytosol']"
+Q9NZD8,SPG21,"[u'Hereditary spastic paraplegia', u'Neurodegeneration']",ENSG00000090487,Evidence at protein level,SPG21,"[u'ABHD21', u'ACP33', u'BM-019', u'GL010', u'MAST']",None,"[u'Vesicles', u'Cytosol']"
+Q5SW79,CEP170,None,ENSG00000143702,Evidence at protein level,CEP170,"[u'FAM68A', u'KAB', u'KIAA0470']",[u'Cytosol'],[u'Centrosome']
+Q9H8E8,KAT14,None,ENSG00000149474,Evidence at protein level,KAT14,"[u'ATAC2', u'CRP2BP', u'CSRP2BP', u'dJ717M23.1', u'PRO1194']",None,None
+Q3V6T2,CCDC88A,"[u'Epilepsy', u'Mental retardation', u'Neurodegeneration']",ENSG00000115355,Evidence at protein level,CCDC88A,"[u'APE', u'FLJ10392', u'GIV', u'GRDN', u'HkRP1', u'KIAA1212']",None,None
+P24278,ZBTB25,None,ENSG00000089775,Evidence at protein level,ZBTB25,"[u'C14orf51', u'KUP', u'ZNF46']",None,[u'Nucleoplasm']
+M0QXS5,HNRNPL,None,ENSG00000104824,Evidence at protein level,HNRNPL,[u'HNRPL'],None,[u'Nucleoplasm']
+E9PRN1,FCER1A,[u'FDA approved drug targets'],ENSG00000179639,Evidence at protein level,FCER1A,[u'FCE1A'],None,None
+Q7Z4L5,TTC21B,"[u'Ciliopathy', u'Disease variant', u'Joubert syndrome', u'Meckel syndrome', u'Mental retardation', u'Nephronophthisis', u'Obesity']",ENSG00000123607,Evidence at protein level,TTC21B,"[u'FAP60', u'FLA17', u'FLJ11457', u'IFT139B', u'JBTS11', u'NPHP12', u'THM1']",None,[u'Cytosol']
+E7EVI4,TACC1,None,ENSG00000147526,Evidence at protein level,TACC1,[],None,[u'Cytosol']
+O95183,VAMP5,None,ENSG00000168899,Evidence at protein level,VAMP5,[],None,"[u'Nucleoplasm', u'Plasma membrane']"
+Q12796,PNRC1,None,ENSG00000146278,Evidence at protein level,PNRC1,"[u'B4-2', u'PROL2', u'PRR2']",None,"[u'Nucleoplasm', u'Nucleoli']"
+Q5JRA6-4,MIA3,None,ENSG00000154305,Evidence at protein level,MIA3,"[u'FLJ39207', u'KIAA0268', u'TANGO', u'TANGO1', u'UNQ6077']",None,[u'Vesicles']
+A0A0B4J1V8,PPAN-P2RY11,None,ENSG00000243207,Evidence at protein level,PPAN-P2RY11,[],None,None
+Q14469,HES1,None,ENSG00000114315,Evidence at protein level,HES1,"[u'bHLHb39', u'FLJ20408', u'HES-1', u'HRY']",None,[u'Nucleoplasm']
+Q5SZK8,FREM2,[u'Disease variant'],ENSG00000150893,Evidence at protein level,FREM2,[u'DKFZp686J0811'],None,[u'Cytosol']
+P01583,IL1A,[u'Cancer-related genes'],ENSG00000115008,Evidence at protein level,IL1A,"[u'IL-1A', u'IL1', u'IL1-ALPHA', u'IL1F1']",None,None
+Q14207,NPAT,None,ENSG00000149308,Evidence at protein level,NPAT,"[u'E14', u'p220']",None,"[u'Nucleoplasm', u'Nuclear bodies']"
+Q14651,PLS1,"[u'Deafness', u'Disease variant', u'Non-syndromic deafness']",ENSG00000120756,Evidence at protein level,PLS1,"[u'I-plastin', u'Plastin-1']",None,None
+M0R247,HNRNPUL1,None,ENSG00000105323,Evidence at protein level,HNRNPUL1,"[u'E1B-AP5', u'E1BAP5', u'FLJ12944', u'HNRPUL1']",None,[u'Nucleoplasm']
+M0QY91,SDHAF2,"[u'Cancer-related genes', u'Disease variant']",ENSG00000167985,Evidence at protein level,SDHAF2,"[u'C11orf79', u'FLJ20487', u'PGL2', u'SDH5']",[u'Nucleoli'],"[u'Mitochondria', u'Cytosol']"
+Q96GE4,CEP95,None,ENSG00000258890,Evidence at protein level,CEP95,"[u'CCDC45', u'DKFZp667E1824']",[u'Centriolar satellite'],[u'Cytosol']
+O95429,BAG4,None,ENSG00000156735,Evidence at protein level,BAG4,[u'SODD'],None,None
+P28749,RBL1,"[u'Cancer-related genes', u'Tumor suppressor']",ENSG00000080839,Evidence at protein level,RBL1,"[u'cp107', u'p107', u'PRB1']",None,[u'Nucleoplasm']
+Q9NWV8,BABAM1,None,ENSG00000105393,Evidence at protein level,BABAM1,"[u'C19orf62', u'FLJ20571', u'HSPC142', u'MERIT40', u'NBA1']","[u'Nucleoplasm', u'Cytosol']",[u'Nuclear bodies']
+Q86WX3,RPS19BP1,None,ENSG00000187051,Evidence at protein level,RPS19BP1,"[u'FLJ21770', u'MGC52010']",[u'Nucleoplasm'],"[u'Nucleoli', u'Cytosol']"
+V9GYN7,DNAJB12,None,ENSG00000148719,Evidence at protein level,DNAJB12,"[u'DJ10', u'FLJ20027']",[u'Nuclear membrane'],[u'Endoplasmic reticulum']
+O15067,PFAS,None,ENSG00000178921,Evidence at protein level,PFAS,"[u'FGARAT', u'GATD8', u'KIAA0361', u'PURL']",None,[u'Vesicles']
+X6R4W8,ZNF207,None,ENSG00000010244,Evidence at protein level,ZNF207,[u'BuGZ'],None,[u'Nucleoplasm']
+Q9Y6X3,MAU2,None,ENSG00000129933,Evidence at protein level,MAU2,"[u'KIAA0892', u'mau-2', u'MAU2L', u'MGC75361', u'SCC4']",[u'Nuclear bodies'],[u'Nucleoplasm']
+Q9UGH3,SLC23A2,None,ENSG00000089057,Evidence at protein level,SLC23A2,"[u'KIAA0238', u'SLC23A1', u'SVCT2', u'YSPL2']",[u'Golgi apparatus'],[u'Vesicles']
+P49321,NASP,None,ENSG00000132780,Evidence at protein level,NASP,"[u'DKFZp547F162', u'FLB7527', u'FLJ31599', u'FLJ35510', u'MGC19722', u'MGC20372', u'MGC2297', u'PRO1999']",None,[u'Nucleoplasm']
+O95936-4,EOMES,None,ENSG00000163508,Evidence at protein level,EOMES,[u'TBR2'],"[u'Golgi apparatus', u'Cytosol']",[u'Nucleoplasm']
+Q96EL2,MRPS24,None,ENSG00000062582,Evidence at protein level,MRPS24,"[u'HSPC335', u'MRP-S24']",None,None
+Q9NX14,NDUFB11,"[u'Cardiomyopathy', u'Disease variant', u'Primary mitochondrial disease']",ENSG00000147123,Evidence at protein level,NDUFB11,"[u'ESSS', u'Np15', u'NP17.3']",None,[u'Mitochondria']
+F1T0I1,SEC16A,None,ENSG00000148396,Evidence at protein level,SEC16A,"[u'KIAA0310', u'p250', u'Sec16L']",[u'Endoplasmic reticulum'],[u'Golgi apparatus']
+O14929,HAT1,None,ENSG00000128708,Evidence at protein level,HAT1,[u'KAT1'],None,[u'Nucleoplasm']
+Q96P16,RPRD1A,None,ENSG00000141425,Evidence at protein level,RPRD1A,"[u'FLJ10656', u'HsT3101', u'P15RS']",None,"[u'Nucleoplasm', u'Golgi apparatus']"
+Q8NCE2,MTMR14,[u'Disease variant'],ENSG00000163719,Evidence at protein level,MTMR14,"[u'C3orf29', u'FLJ22405', u'FLJ90311', u'hEDTP', u'hJumpy']",None,None
+P38117-2,ETFB,"[u'Disease variant', u'Glutaricaciduria']",ENSG00000105379,Evidence at protein level,ETFB,[],None,[u'Mitochondria']
+Q9NX55,HYPK,None,ENSG00000242028,Evidence at protein level,HYPK,"[u'C15orf63', u'FLJ20431', u'HSPC136']",[u'Microtubules'],[u'Nucleoplasm']
+Q8N1G4,LRRC47,None,ENSG00000130764,Evidence at protein level,LRRC47,"[u'KIAA1185', u'RP1-286D6.3']",None,[u'Nucleoli fibrillar center']
+Q15428,SF3A2,None,ENSG00000104897,Evidence at protein level,SF3A2,"[u'Prp11', u'PRPF11', u'SAP62', u'SF3a66']",None,[u'Nucleoplasm']
+Q15126,PMVK,[u'Disease variant'],ENSG00000163344,Evidence at protein level,PMVK,"[u'HUMPMKI', u'PMK', u'PMKA']",None,None
+Q9NVW2,RLIM,"[u'Disease variant', u'Mental retardation']",ENSG00000131263,Evidence at protein level,RLIM,"[u'MGC15161', u'NY-REN-43', u'RNF12']",[u'Cytosol'],[u'Nucleoplasm']
+Q8N8A6,DDX51,None,ENSG00000185163,Evidence at protein level,DDX51,[],[u'Cytosol'],"[u'Nucleoplasm', u'Nucleoli']"
+Q8NBR0,TP53I13,None,ENSG00000167543,Evidence at protein level,TP53I13,[u'DSCP1'],None,None
+Q7Z5J4,RAI1,None,ENSG00000108557,Evidence at protein level,RAI1,"[u'DKFZP434A139', u'KIAA1820', u'MGC12824', u'SMCR', u'SMS']",None,[u'Nucleoplasm']
+Q8WZ64,ARAP2,None,ENSG00000047365,Evidence at protein level,ARAP2,"[u'CENTD1', u'PARX']",[u'Actin filaments'],[u'Focal adhesion sites']
+Q7RTN6-6,STRADA,None,ENSG00000266173,Evidence at protein level,STRADA,"[u'LYK5', u'NY-BR-96', u'Stlk', u'STRAD']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q02539,HIST1H1A,None,ENSG00000124610,Evidence at protein level,H1-1,"[u'H1.1', u'H1a', u'H1F1', u'HIST1H1A']",None,[u'Nucleoplasm']
+Q99808-2,SLC29A1,None,ENSG00000112759,Evidence at protein level,SLC29A1,[u'ENT1'],None,None
+Q9Y4H5,G18.1a,None,ENSG00000213654,Evidence at protein level,GPSM3,"[u'AGS4', u'C6orf9', u'G18', u'G18.1a', u'G18.1b', u'G18.2', u'NG1']",None,None
+Q99081,TCF12,"[u'Cancer-related genes', u'Craniosynostosis', u'Disease variant']",ENSG00000140262,Evidence at protein level,TCF12,"[u'bHLHb20', u'HEB', u'HsT17266', u'HTF4', u'p64']",None,"[u'Nucleoplasm', u'Nuclear speckles']"
+Q9UFF9,CNOT8,None,ENSG00000155508,Evidence at protein level,CNOT8,"[u'CAF1', u'CALIF', u'hCAF1', u'POP2']",None,None
+O95249,GOSR1,None,ENSG00000108587,Evidence at protein level,GOSR1,"[u'GOLIM2', u'GOS-28', u'GOS28', u'GS28', u'P28']",None,None
+Q8IVS8-4,GLYCTK,[u'Disease variant'],ENSG00000168237,Evidence at protein level,GLYCTK,"[u'HBEBP2', u'HBEBP4']","[u'Golgi apparatus', u'Rods & Rings']",[u'Cytosol']
+Q53HC0,CCDC92,None,ENSG00000119242,Evidence at protein level,CCDC92,[u'FLJ22471'],[u'Nucleoplasm'],[u'Centrosome']
+Q13601,KRR1,None,ENSG00000111615,Evidence at protein level,KRR1,"[u'HRB2', u'RIP-1']","[u'Nucleoplasm', u'Mitotic chromosome']","[u'Nucleoli', u'Nucleoli rim']"
+Q9H1D9,POLR3F,None,ENSG00000132664,Evidence at protein level,POLR3F,"[u'C34', u'RPC39', u'RPC6']",None,[u'Nucleoplasm']
+O75368,SH3BGRL,None,ENSG00000131171,Evidence at protein level,SH3BGRL,[u'MGC117402'],None,[u'Vesicles']
+Q9Y3L3,SH3BP1,None,ENSG00000100092,Evidence at protein level,SH3BP1,[u'ARHGAP43'],None,[u'Cytosol']
+Q96LJ7,DHRS1,None,ENSG00000157379,Evidence at protein level,DHRS1,"[u'FLJ25430', u'MGC20204', u'SDR19C1']","[u'Centrosome', u'Cytosol']",[u'Nucleoplasm']
+Q69YQ0,SPECC1L,[u'Disease variant'],ENSG00000100014,Evidence at protein level,SPECC1L,"[u'CYTSA', u'KIAA0376']",None,[u'Actin filaments']
+Q8WTW3,COG1,[u'Congenital disorder of glycosylation'],ENSG00000166685,Evidence at protein level,COG1,"[u'KIAA1381', u'LDLB']",None,None
+O95336,PGLS,None,ENSG00000130313,Evidence at protein level,PGLS,[u'6PGL'],[u'Cytosol'],[u'Nucleoplasm']
+Q8WVB3-2,HEXDC,None,ENSG00000169660,Evidence at protein level,HEXD,"[u'FLJ23825', u'HEXDC']",None,"[u'Nucleoli fibrillar center', u'Mitochondria']"
+Q9P0J7,KCMF1,None,ENSG00000176407,Evidence at protein level,KCMF1,"[u'DEBT91', u'DKFZP434L1021', u'PCMF', u'ZZZ1']",[u'Nucleoplasm'],[u'Cytosol']
+Q8N183,NDUFAF2,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000164182,Evidence at protein level,NDUFAF2,"[u'B17.2L', u'mimitin', u'MMTN', u'NDUFA12L']",None,[u'Mitochondria']
+P09960,LTA4H,[u'Cancer-related genes'],ENSG00000111144,Evidence at protein level,LTA4H,[],None,"[u'Nucleoplasm', u'Cytosol']"
+Q9HAP2,MLXIP,None,ENSG00000175727,Evidence at protein level,MLXIP,"[u'bHLHe36', u'KIAA0867', u'MIR', u'MONDOA']",None,None
+Q9BWT1,CDCA7,[u'Disease variant'],ENSG00000144354,Evidence at protein level,CDCA7,"[u'FLJ14736', u'JPO1']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q92569,PIK3R3,[u'Cancer-related genes'],ENSG00000117461,Evidence at protein level,PIK3R3,[u'p55'],[u'Nucleoplasm'],[u'Vesicles']
+A6NHX0,GATSL2,None,ENSG00000274070,Evidence at protein level,CASTOR2,"[u'GATSL1', u'GATSL2']",None,None
+P34896,SHMT1,None,ENSG00000176974,Evidence at protein level,SHMT1,"[u'CSHMT', u'MGC15229', u'MGC24556', u'SHMT']",[u'Nucleoplasm'],[u'Cytosol']
+Q15645,TRIP13,[u'Disease variant'],ENSG00000071539,Evidence at protein level,TRIP13,[u'16E1BP'],None,[u'Nucleoplasm']
+Q5VU43-3,PDE4DIP,[u'Cancer-related genes'],ENSG00000178104,Evidence at protein level,PDE4DIP,"[u'CMYA2', u'KIAA0454', u'KIAA0477', u'MMGL']",None,[u'Golgi apparatus']
+Q6UXB4,CLEC4G,None,ENSG00000182566,Evidence at protein level,CLEC4G,"[u'LSECtin', u'UNQ431']",None,None
+O15085,ARHGEF11,None,ENSG00000132694,Evidence at protein level,ARHGEF11,"[u'GTRAP48', u'KIAA0380', u'PDZ-RHOGEF']",[u'Nucleoplasm'],[u'Plasma membrane']
+Q8N3V7,SYNPO,None,ENSG00000171992,Evidence at protein level,SYNPO,[u'KIAA1029'],[u'Actin filaments'],"[u'Plasma membrane', u'Cytosol']"
+Q969Z3,MARC2,None,ENSG00000117791,Evidence at protein level,MTARC2,"[u'FLJ20605', u'MARC2', u'MOSC2']",None,None
+Q08999,RBL2,"[u'Cancer-related genes', u'Tumor suppressor']",ENSG00000103479,Evidence at protein level,RBL2,"[u'p130', u'Rb2']",[u'Cytosol'],"[u'Nucleoplasm', u'Nucleoli rim', u'Mitotic chromosome']"
+I3L4C8,NDUFAF8,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000224877,Evidence at protein level,NDUFAF8,[u'C17orf89'],None,[u'Mitochondria']
+Q9UH36,SRRD,None,ENSG00000100104,Evidence at protein level,SRRD,"[u'HC/HCC', u'SRR1L']",None,[u'Cytosol']
+Q8TF20,ZNF721,None,ENSG00000182903,Evidence at protein level,ZNF721,[u'KIAA1982'],[u'Centriolar satellite'],[u'Cytosol']
+P52788,SMS,[u'Mental retardation'],ENSG00000102172,Evidence at protein level,SMS,"[u'MRSR', u'SPMSY', u'SpS', u'SRS']",[u'Cytosol'],[u'Nuclear bodies']
+Q969K4,ABTB1,None,ENSG00000114626,Evidence at protein level,ABTB1,"[u'BPOZ', u'Btb3', u'BTBD21', u'EF1ABP']",[u'Nucleoli'],[u'Cytosol']
+Q86U42,PABPN1,[u'Disease variant'],ENSG00000100836,Evidence at protein level,PABPN1,"[u'OPMD', u'PAB2', u'PABP2']",[u'Nuclear speckles'],[u'Nucleoplasm']
+Q06945,SOX4,"[u'Disease variant', u'Mental retardation']",ENSG00000124766,Evidence at protein level,SOX4,[],[u'Mitochondria'],[u'Nucleoplasm']
+O95644,NFATC1,None,ENSG00000131196,Evidence at protein level,NFATC1,"[u'NF-ATC', u'NFAT2', u'NFATc']",[u'Nucleoplasm'],[u'Nuclear bodies']
+Q9Y2E8,SLC9A8,None,ENSG00000197818,Evidence at protein level,SLC9A8,"[u'KIAA0939', u'NHE8']",None,None
+Q5XUX1,FBXW9,None,ENSG00000132004,Evidence at protein level,FBXW9,"[u'Fbw9', u'MEC-15', u'MGC10870']",None,[u'Cytosol']
+P13760,HLA-DRB1,None,ENSG00000196126,Evidence at protein level,HLA-DRB1,[u'HLA-DR1B'],None,None
+P40937,RFC5,None,ENSG00000111445,Evidence at protein level,RFC5,[u'RFC36'],None,[u'Nucleoplasm']
+Q5W0V3,FAM160B1,None,ENSG00000151553,Evidence at protein level,FAM160B1,"[u'bA106M7.3', u'KIAA1600']",[u'Cytosol'],[u'Nuclear speckles']
+P41220,RGS2,None,ENSG00000116741,Evidence at protein level,RGS2,[u'G0S8'],None,[u'Cytosol']
+Q4AC94,C2CD3,"[u'Ciliopathy', u'Disease variant', u'Mental retardation']",ENSG00000168014,Evidence at protein level,C2CD3,[u'DKFZP586P0123'],None,"[u'Nucleoplasm', u'Centrosome']"
+Q99592,ZBTB18,[u'Mental retardation'],ENSG00000179456,Evidence at protein level,ZBTB18,"[u'C2H2-171', u'RP58', u'TAZ-1', u'ZNF238']",None,"[u'Nucleoplasm', u'Nuclear speckles']"
+P29375,KDM5A,[u'Cancer-related genes'],ENSG00000073614,Evidence at protein level,KDM5A,"[u'JARID1A', u'RBBP2']",[u'Cytosol'],[u'Nuclear bodies']
+Q9H9D4,ZNF408,"[u'Disease variant', u'Retinitis pigmentosa']",ENSG00000175213,Evidence at protein level,ZNF408,[u'FLJ12827'],None,"[u'Centriolar satellite', u'Cytosol']"
+Q9BSF4,TIMM29,None,ENSG00000142444,Evidence at protein level,TIMM29,"[u'C19orf52', u'TIM29']",[u'Nucleoplasm'],[u'Mitochondria']
+Q86WH2,RASSF3,None,ENSG00000153179,Evidence at protein level,RASSF3,[],None,"[u'Plasma membrane', u'Cytosol']"
+O15056,SYNJ2,None,ENSG00000078269,Evidence at protein level,SYNJ2,[u'INPP5H'],[u'Cytosol'],[u'Microtubules']
+Q8N4H5,TOMM5,None,ENSG00000175768,Evidence at protein level,TOMM5,"[u'bA613M10.3', u'C9orf105', u'Tom5']",None,[u'Mitochondria']
+D6RD47,RPS23,"[u'Deafness', u'Disease variant', u'Dwarfism']",ENSG00000186468,Evidence at protein level,RPS23,"[u'S23', u'uS12']",None,"[u'Endoplasmic reticulum', u'Cytosol']"
+O75791,GRAP2,None,ENSG00000100351,Evidence at protein level,GRAP2,"[u'GADS', u'GRBLG', u'GrbX', u'Grf40', u'Mona']",[u'Plasma membrane'],"[u'Nucleoplasm', u'Cytosol']"
+Q9UJA3,MCM8,"[u'Disease variant', u'Premature ovarian failure']",ENSG00000125885,Evidence at protein level,MCM8,"[u'C20orf154', u'dJ967N21.5', u'MGC119522', u'MGC119523', u'MGC12866', u'MGC4816', u'REC']",[u'Cytosol'],[u'Nucleoplasm']
+Q9H0P0,NT5C3A,[u'Disease variant'],ENSG00000122643,Evidence at protein level,NT5C3A,"[u'cN-III', u'hUMP1', u'NT5C3', u'p36', u""P5'N-1"", u'PN-I', u'POMP', u'PSN1', u'UMPH', u'UMPH1']","[u'Nucleoplasm', u'Nuclear bodies']","[u'Endoplasmic reticulum', u'Cytosol']"
+B1AK63,MEAF6,None,ENSG00000163875,Evidence at protein level,MEAF6,"[u'C1orf149', u'CENP-28', u'Eaf6', u'FLJ11730', u'NY-SAR-91']",[u'Nucleoplasm'],[u'Nuclear bodies']
+Q9H5V9,CXorf56,[u'Mental retardation'],ENSG00000018610,Evidence at protein level,CXorf56,[u'FLJ22965'],[u'Centrosome'],[u'Nucleoplasm']
+O43482,OIP5,None,ENSG00000104147,Evidence at protein level,OIP5,"[u'CT86', u'hMIS18beta', u'MIS18B']",[u'Vesicles'],[u'Nuclear speckles']
+A0A0D9SEJ8,ZNF280B,None,ENSG00000275004,Evidence at protein level,ZNF280B,"[u""5'OY11.1"", u'SUHW2', u'ZNF279', u'ZNF632']",None,[u'Nucleoplasm']
+Q9HCL2,GPAM,None,ENSG00000119927,Evidence at protein level,GPAM,"[u'GPAT1', u'KIAA1560', u'MGC26846']",None,[u'Mitochondria']
+P46783,RPS10,[u'Diamond-Blackfan anemia'],ENSG00000124614,Evidence at protein level,RPS10,"[u'MGC88819', u'S10']",None,[u'Cytosol']
+Q7Z3E5,ARMC9,"[u'Ciliopathy', u'Joubert syndrome']",ENSG00000135931,Evidence at protein level,ARMC9,"[u'ARM', u'FLJ12584', u'KIAA1868', u'KU-MEL-1']",None,None
+P61086,UBE2K,None,ENSG00000078140,Evidence at protein level,UBE2K,"[u'HIP2', u'HYPG', u'UBC1']",[u'Plasma membrane'],[u'Cytosol']
+A0A0A0MP75,ZNF180,[u'Cancer-related genes'],ENSG00000167384,Evidence at protein level,ZNF180,[u'HHZ168'],None,[u'Nucleoplasm']
+Q4G0N4,NADK2,None,ENSG00000152620,Evidence at protein level,NADK2,"[u'C5orf33', u'FLJ30596', u'MNADK', u'NADKD1']",None,[u'Mitochondria']
+Q63HK3,ZKSCAN2,None,ENSG00000155592,Evidence at protein level,ZKSCAN2,"[u'FLJ23199', u'ZNF694', u'ZSCAN34']","[u'Nucleoli fibrillar center', u'Golgi apparatus']",[u'Nucleoplasm']
+Q5VTL8,PRPF38B,None,ENSG00000134186,Evidence at protein level,PRPF38B,"[u'FLJ10330', u'NET1']",None,None
+Q9UJU6,DBNL,None,ENSG00000136279,Evidence at protein level,DBNL,"[u'ABP1', u'HIP-55', u'SH3P7']",None,"[u'Vesicles', u'Plasma membrane']"
+Q96MT1,RNF145,None,ENSG00000145860,Evidence at protein level,RNF145,[u'FLJ31951'],None,"[u'Nucleoplasm', u'Plasma membrane', u'Cytosol']"
+Q8NDD1,C1orf131,None,ENSG00000143633,Evidence at protein level,C1orf131,[u'DKFZp547B1713'],None,None
+X6RLR1,DCTN3,None,ENSG00000137100,Evidence at protein level,DCTN3,[u'DCTN-22'],[u'Nucleoli'],[u'Cytosol']
+Q9BZD2,SLC29A3,[u'Disease variant'],ENSG00000198246,Evidence at protein level,SLC29A3,"[u'ENT3', u'FLJ11160']",None,"[u'Golgi apparatus', u'Vesicles']"
+C9JSE3,FANCG,"[u'Cancer-related genes', u'Disease variant', u'Fanconi anemia']",ENSG00000221829,Evidence at protein level,FANCG,"[u'FAG', u'XRCC9']",[u'Nucleoli'],"[u'Plasma membrane', u'Cytosol']"
+F8VUC8,OAS1,None,ENSG00000089127,Evidence at protein level,OAS1,"[u'IFI-4', u'OIAS', u'OIASI']",None,"[u'Nucleoplasm', u'Cytosol']"
+O95551,TDP2,"[u'Mental retardation', u'Neurodegeneration', u'Spinocerebellar ataxia']",ENSG00000111802,Evidence at protein level,TDP2,[u'TTRAP'],None,"[u'Nucleoplasm', u'Nuclear bodies']"
+Q9BRJ9,MESP1,None,ENSG00000166823,Evidence at protein level,MESP1,"[u'bHLHc5', u'MGC10676']",[u'Nucleoli'],[u'Nucleoplasm']
+A0A0C4DGT8,RSBN1,None,ENSG00000081019,Evidence at protein level,RSBN1,"[u'FLJ11220', u'ROSBIN']","[u'Nuclear bodies', u'Vesicles']",[u'Nucleoplasm']
+A0A0C4DG33,PEX1,"[u'Amelogenesis imperfecta', u'Deafness', u'Disease variant', u'Peroxisome biogenesis disorder', u'Zellweger syndrome']",ENSG00000127980,Evidence at protein level,PEX1,"[u'ZWS', u'ZWS1']",None,[u'Peroxisomes']
+Q05397,PTK2,[u'Cancer-related genes'],ENSG00000169398,Evidence at protein level,PTK2,"[u'FADK', u'FAK', u'FAK1', u'PPP1R71']","[u'Vesicles', u'Cytosol']",[u'Focal adhesion sites']
+O95757,HSPA4L,None,ENSG00000164070,Evidence at protein level,HSPA4L,"[u'APG-1', u'HSPH3', u'Osp94']",None,"[u'Centrosome', u'Cytosol']"
+Q8TF72,SHROOM3,None,ENSG00000138771,Evidence at protein level,SHROOM3,"[u'APXL3', u'KIAA1481', u'SHRM', u'ShrmL']",None,None
+O75937,DNAJC8,None,ENSG00000126698,Evidence at protein level,DNAJC8,[u'SPF31'],None,[u'Nucleoplasm']
+Q8N531,FBXL6,None,ENSG00000182325,Evidence at protein level,FBXL6,[u'FBL6'],[u'Vesicles'],[u'Nucleoplasm']
+P35580,MYH10,[u'Disease variant'],ENSG00000133026,Evidence at protein level,MYH10,[u'NMMHCB'],"[u'Mitochondria', u'Cytosol']",[u'Actin filaments']
+B5MDF5,RAN,None,ENSG00000132341,Evidence at protein level,RAN,"[u'ARA24', u'Gsp1', u'TC4']",None,[u'Nucleoplasm']
+O75204,TMEM127,"[u'Cancer-related genes', u'Tumor suppressor']",ENSG00000135956,Evidence at protein level,TMEM127,"[u'FLJ20507', u'FLJ22257']",None,None
+Q9BVI4,NOC4L,None,ENSG00000184967,Evidence at protein level,NOC4L,"[u'MGC3162', u'NET49', u'Noc4', u'UTP19']",[u'Nucleoplasm'],[u'Nucleoli']
+P25942,CD40,"[u'Cancer-related genes', u'Disease variant']",ENSG00000101017,Evidence at protein level,CD40,"[u'Bp50', u'p50', u'TNFRSF5']",None,None
+P30154-2,PPP2R1B,None,ENSG00000137713,Evidence at protein level,PPP2R1B,"[u'PP2A-Abeta', u'PR65B']",None,"[u'Plasma membrane', u'Cytosol']"
+Q6NUQ1,RINT1,[u'Disease variant'],ENSG00000135249,Evidence at protein level,RINT1,"[u'FLJ11785', u'RINT-1']",None,[u'Golgi apparatus']
+Q99538,LGMN,[u'Cancer-related genes'],ENSG00000100600,Evidence at protein level,LGMN,"[u'LGMN1', u'PRSC1']",[u'Nucleoplasm'],[u'Vesicles']
+Q9BVK8,TMEM147,None,ENSG00000105677,Evidence at protein level,TMEM147,"[u'MGC1936', u'NIFIE14']",None,None
+Q9ULT0-4,TTC7A,[u'Disease variant'],ENSG00000068724,Evidence at protein level,TTC7A,"[u'KIAA1140', u'TTC7']",None,None
+Q7Z7A1,CNTRL,[u'Cancer-related genes'],ENSG00000119397,Evidence at protein level,CNTRL,"[u'CEP1', u'CEP110']",[u'Centriolar satellite'],"[u'Centrosome', u'Cytosol']"
+Q6NS38,ALKBH2,None,ENSG00000189046,Evidence at protein level,ALKBH2,"[u'ABH2', u'MGC90512']",None,[u'Nucleoplasm']
+O95394,PGM3,[u'Disease variant'],ENSG00000013375,Evidence at protein level,PGM3,"[u'AGM1', u'DKFZP434B187', u'PAGM']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q53R41,FASTKD1,None,ENSG00000138399,Evidence at protein level,FASTKD1,[u'FLJ21901'],None,None
+Q06330,RBPJ,[u'Disease variant'],ENSG00000168214,Evidence at protein level,RBPJ,"[u'CBF1', u'IGKJRB', u'IGKJRB1', u'KBF2', u'RBP-J', u'RBPJK', u'RBPSUH', u'SUH']",None,[u'Nucleoplasm']
+P35790,CHKA,None,ENSG00000110721,Evidence at protein level,CHKA,"[u'CHK', u'CKI']",None,[u'Endoplasmic reticulum']
+Q5TA45,CPSF3L,None,ENSG00000127054,Evidence at protein level,INTS11,"[u'CPSF3L', u'CPSF73L', u'FLJ20542', u'INT11', u'RC-68']",[u'Nucleoplasm'],[u'Cytosol']
+A0A087WSX8,LILRB1,None,ENSG00000104972,Evidence at transcript level,LILRB1,"[u'CD85', u'CD85j', u'ILT2', u'LIR-1', u'LIR1', u'MIR-7', u'PIR-B', u'PIRB']",None,None
+P26022,PTX3,None,ENSG00000163661,Evidence at protein level,PTX3,"[u'TNFAIP5', u'TSG-14']",None,[u'Plasma membrane']
+P54277,PMS1,"[u'Hereditary nonpolyposis colorectal cancer', u'Tumor suppressor']",ENSG00000064933,Evidence at protein level,PMS1,"[u'MLH2', u'PMSL1']",None,"[u'Nucleoplasm', u'Nuclear bodies']"
+Q8IYA6,CKAP2L,[u'Mental retardation'],ENSG00000169607,Evidence at protein level,CKAP2L,"[u'FLJ40629', u'radmis']",[u'Cytosol'],"[u'Microtubules', u'Mitotic spindle']"
+D6RJ90,COMMD10,None,ENSG00000145781,Evidence at protein level,COMMD10,[u'PTD002'],None,[u'Nucleoplasm']
+Q9NPD3,EXOSC4,None,ENSG00000178896,Evidence at protein level,EXOSC4,"[u'FLJ20591', u'hRrp41p', u'p12A', u'RRP41', u'RRP41A', u'Rrp41p', u'SKI6', u'Ski6p']",[u'Vesicles'],"[u'Nucleoplasm', u'Cytosol']"
+A0A075B6H6,IGKC,None,ENSG00000211592,Evidence at transcript level,IGKC,[u'HCAK1'],None,None
+F5H5B9,STAMBP,[u'Disease variant'],ENSG00000124356,Evidence at protein level,STAMBP,[u'AMSH'],"[u'Plasma membrane', u'Cytosol']",[u'Nucleoplasm']
+O00483,NDUFA4,"[u'Leigh syndrome', u'Primary mitochondrial disease']",ENSG00000189043,Evidence at protein level,NDUFA4,"[u'CI-9k', u'COXFA4', u'MLRQ']",None,[u'Mitochondria']
+E9PRZ1,SAAL1,None,ENSG00000166788,Evidence at protein level,SAAL1,[u'FLJ41463'],None,[u'Nucleoplasm']
+P08621,SNRNP70,None,ENSG00000104852,Evidence at protein level,SNRNP70,"[u'RNPU1Z', u'RPU1', u'Snp1', u'SNRP70', u'U1-70K']",None,[u'Nucleoplasm']
+Q86UX7,FERMT3,[u'Disease variant'],ENSG00000149781,Evidence at protein level,FERMT3,"[u'KIND3', u'MGC10966', u'MIG-2', u'MIG2B', u'UNC112C', u'URP2']",None,[u'Vesicles']
+Q92890-1,UFD1L,None,ENSG00000070010,Evidence at protein level,UFD1,[u'UFD1L'],[u'Nucleoli'],"[u'Nucleoplasm', u'Cytosol']"
+Q14832,GRM3,None,ENSG00000198822,Evidence at protein level,GRM3,"[u'GPRC1C', u'mGlu3', u'MGLUR3']",None,None
+H0YMB0,IRF9,None,ENSG00000213928,Evidence at protein level,IRF9,[u'ISGF3G'],None,[u'Cytosol']
+Q01432,AMPD3,[u'Disease variant'],ENSG00000133805,Evidence at protein level,AMPD3,[],None,[u'Nuclear membrane']
+O94868,FCHSD2,None,ENSG00000137478,Evidence at protein level,FCHSD2,"[u'KIAA0769', u'SH3MD3']","[u'Nuclear speckles', u'Focal adhesion sites']","[u'Plasma membrane', u'Actin filaments']"
+Q96T76,MMS19,None,ENSG00000155229,Evidence at protein level,MMS19,"[u'CIAO4', u'hMMS19', u'MET18', u'MMS19L']",None,[u'Nucleoplasm']
+A0A0A0MR51,FADS1,[u'FDA approved drug targets'],ENSG00000149485,Evidence at protein level,FADS1,"[u'D5D', u'FADS6', u'FADSD5', u'LLCDL1', u'TU12']",None,None
+Q96G74-3,OTUD5,None,ENSG00000068308,Evidence at protein level,OTUD5,"[u'DKFZp761A052', u'DUBA']","[u'Nucleoplasm', u'Nucleoli fibrillar center']",[u'Cytosol']
+D6RDH9,SNX14,"[u'Disease variant', u'Mental retardation', u'Neurodegeneration', u'Spinocerebellar ataxia']",ENSG00000135317,Evidence at protein level,SNX14,[u'RGS-PX2'],None,"[u'Vesicles', u'Cytosol']"
+Q9BXJ9,NAA15,"[u'Disease variant', u'Mental retardation']",ENSG00000164134,Evidence at protein level,NAA15,"[u'FLJ13340', u'NARG1', u'NATH', u'TBDN100']",[u'Nuclear bodies'],[u'Cytosol']
+Q15048,LRRC14,None,ENSG00000160959,Evidence at protein level,LRRC14,"[u'KIAA0014', u'LRRC14A']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q99437,ATP6V0B,None,ENSG00000117410,Evidence at protein level,ATP6V0B,"[u'ATP6F', u'HATPL', u'VMA16']",None,[u'Cytosol']
+M0R2M1,NAPA,None,ENSG00000105402,Evidence at protein level,NAPA,[],None,[u'Cytosol']
+Q12906,ILF3,[u'Cancer-related genes'],ENSG00000129351,Evidence at protein level,ILF3,"[u'DRBP76', u'MPHOSPH4', u'MPP4', u'MPP4110', u'NF110', u'NF110b', u'NF90', u'NF90a', u'NF90c', u'NF90ctv', u'NFAR-1', u'NFAR-2', u'NFAR110', u'NFAR90', u'TCP110']",None,"[u'Nucleoplasm', u'Nucleoli', u'Mitochondria']"
+P51805,PLXNA3,None,ENSG00000130827,Evidence at protein level,PLXNA3,"[u'6.3', u'Plxn3', u'PLXN4', u'SEX', u'XAP-6']",[u'Nucleoplasm'],"[u'Vesicles', u'Plasma membrane']"
+F8W8S8,MTMR1,None,ENSG00000063601,Evidence at protein level,MTMR1,[],None,[u'Vesicles']
+Q5T280,C9orf114,None,ENSG00000198917,Evidence at protein level,SPOUT1,"[u'C9orf114', u'CENP-32', u'HSPC109']",None,None
+A0A1B0GWA0,ZNF654,None,ENSG00000175105,Evidence at transcript level,ZNF654,"[u'FLJ10997', u'FLJ21142']","[u'Nucleoplasm', u'Cytokinetic bridge', u'Mitotic spindle']",[u'Microtubules']
+K7ELW0,PARK7,"[u'Disease variant', u'Neurodegeneration', u'Parkinson disease', u'Parkinsonism', u'Tumor suppressor']",ENSG00000116288,Evidence at protein level,PARK7,"[u'DJ-1', u'DJ1', u'GATD2']",None,"[u'Nucleoplasm', u'Cytosol']"
+E7ETZ8,MAP9,None,ENSG00000164114,Evidence at protein level,MAP9,"[u'ASAP', u'FLJ21159']",None,None
+Q8WZ19,KCTD13,"[u'Autism', u'Autism spectrum disorder', u'Disease variant', u'Schizophrenia']",ENSG00000174943,Evidence at protein level,KCTD13,"[u'FKSG86', u'PDIP1', u'POLDIP1']",None,"[u'Nucleoplasm', u'Nuclear bodies']"
+C9JVA8,SERPINB8,None,ENSG00000166401,Evidence at protein level,SERPINB8,"[u'CAP2', u'PI8']",[u'Cytosol'],[u'Nucleoplasm']
+Q8TED0,UTP15,None,ENSG00000164338,Evidence at protein level,UTP15,"[u'FLJ12787', u'FLJ23637', u'NET21']",None,"[u'Nucleoli', u'Endoplasmic reticulum']"
+Q12929,EPS8,"[u'Deafness', u'Non-syndromic deafness']",ENSG00000151491,Evidence at protein level,EPS8,[],None,[u'Golgi apparatus']
+Q92733,PRCC,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000143294,Evidence at protein level,PRCC,[u'RCCP1'],None,[u'Nuclear speckles']
+O15530,PDPK1,None,ENSG00000140992,Evidence at protein level,PDPK1,[u'PDK1'],None,[u'Cytosol']
+P53365,ARFIP2,None,ENSG00000132254,Evidence at protein level,ARFIP2,[u'POR1'],None,"[u'Nucleoplasm', u'Nucleoli fibrillar center', u'Golgi apparatus']"
+Q6UW02,CYP20A1,None,ENSG00000119004,Evidence at protein level,CYP20A1,[u'CYP-M'],[u'Nucleoplasm'],"[u'Plasma membrane', u'Cell Junctions', u'Actin filaments']"
+D6RC73,CCL28,None,ENSG00000151882,Evidence at protein level,CCL28,"[u'CCK1', u'MEC', u'SCYA28']",None,None
+Q8IXM6,NRM,None,ENSG00000137404,Evidence at protein level,NRM,[u'NRM29'],None,[u'Nuclear membrane']
+Q5T4F4,ZFYVE27,"[u'Disease variant', u'Hereditary spastic paraplegia', u'Neurodegeneration']",ENSG00000155256,Evidence at protein level,ZFYVE27,"[u'FLJ32919', u'SPG33']",[u'Cytosol'],"[u'Nucleoplasm', u'Vesicles']"
+O14682,ENC1,[u'Cancer-related genes'],ENSG00000171617,Evidence at protein level,ENC1,"[u'ENC-1', u'KLHL37', u'NRPB', u'PIG10', u'TP53I10']",None,[u'Plasma membrane']
+Q9H1M0,NUP62CL,None,ENSG00000198088,Evidence at protein level,NUP62CL,[u'FLJ20130'],None,None
+Q9UK33,ZNF580,None,ENSG00000213015,Evidence at protein level,ZNF580,[],None,[u'Nucleoplasm']
+H0Y9B7,LEMD2,"[u'Cataract', u'Disease variant']",ENSG00000161904,Evidence at protein level,LEMD2,"[u'dJ482C21.1', u'LEM2', u'NET25']",None,[u'Nuclear membrane']
+Q9HC44,GPBP1L1,None,ENSG00000159592,Evidence at protein level,GPBP1L1,[u'SP192'],"[u'Plasma membrane', u'Focal adhesion sites', u'Cytosol']",[u'Nucleoplasm']
+A0A0A0MR02,VDAC2,None,ENSG00000165637,Evidence at protein level,VDAC2,[],None,[u'Mitochondria']
+Q13885,TUBB2A,[u'Disease variant'],ENSG00000137267,Evidence at protein level,TUBB2A,"[u'dJ40E16.7', u'TUBB', u'TUBB2']","[u'Cytokinetic bridge', u'Mitotic spindle']",[u'Microtubules']
+Q9NYY8,FASTKD2,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000118246,Evidence at protein level,FASTKD2,[u'KIAA0971'],None,[u'Mitochondria']
+D6RFI0,SFXN1,None,ENSG00000164466,Evidence at protein level,SFXN1,"[u'FLJ12876', u'SLC56A1']",None,[u'Mitochondria']
+Q7Z695,ADCK2,None,ENSG00000133597,Evidence at protein level,ADCK2,[u'MGC20727'],None,"[u'Centrosome', u'Cytosol']"
+Q6ZRQ5,MMS22L,None,ENSG00000146263,Evidence at protein level,MMS22L,"[u'C6orf167', u'dJ39B17.2']",None,[u'Nucleoplasm']
+Q9NR45,NANS,"[u'Disease variant', u'Dwarfism', u'Mental retardation']",ENSG00000095380,Evidence at protein level,NANS,[u'SAS'],None,[u'Nucleoplasm']
+P51668,UBE2D1,None,ENSG00000072401,Evidence at protein level,UBE2D1,"[u'E2(17)KB1', u'SFT', u'UBC4/5', u'UBCH5', u'UbcH5A']",None,"[u'Plasma membrane', u'Cytosol']"
+A0A075B7B4,IKBKE,None,ENSG00000263528,Evidence at protein level,IKBKE,"[u'IKK-i', u'IKKE', u'KIAA0151']",None,[u'Cytosol']
+O43182,ARHGAP6,None,ENSG00000047648,Evidence at protein level,ARHGAP6,[u'rhoGAPX-1'],None,[u'Cytosol']
+Q9UKV5,AMFR,None,ENSG00000159461,Evidence at protein level,AMFR,"[u'gp78', u'RNF45']",None,"[u'Endoplasmic reticulum', u'Golgi apparatus']"
+E5RHT9,ENY2,None,ENSG00000120533,Evidence at protein level,ENY2,"[u'DC6', u'FLJ20480', u'Sus1']",None,"[u'Nucleoplasm', u'Mitochondria']"
+B7ZKQ9,SCARB1,None,ENSG00000073060,Evidence at protein level,SCARB1,"[u'CD36L1', u'CLA-1', u'CLA1', u'SR-BI', u'SRB1']","[u'Lysosomes', u'Rods & Rings']",[u'Vesicles']
+A0A0G2JNK5,TSEN34,"[u'Disease variant', u'Neurodegeneration', u'Pontocerebellar hypoplasia']",ENSG00000170892,Evidence at protein level,TSEN34,"[u'LENG5', u'SEN34', u'SEN34L']",None,[u'Nucleoplasm']
+P13667,PDIA4,None,ENSG00000155660,Evidence at protein level,PDIA4,"[u'ERP70', u'ERP72']",None,[u'Endoplasmic reticulum']
+Q71UM5,RPS27L,None,ENSG00000185088,Evidence at protein level,RPS27L,[],[u'Nucleoli'],"[u'Endoplasmic reticulum', u'Cytosol']"
+Q8IUC6,TICAM1,[u'Disease variant'],ENSG00000127666,Evidence at protein level,TICAM1,"[u'MGC35334', u'PRVTIRB', u'TICAM-1', u'TRIF']",[u'Plasma membrane'],"[u'Nucleoplasm', u'Nucleoli']"
+Q68D06,SLFN13,None,ENSG00000154760,Evidence at protein level,SLFN13,[u'FLJ31952'],None,[u'Cytokinetic bridge']
+Q68DC0,DKFZp781B1423,,,,,,,
+E7EQI7,WASHC5,"[u'Disease variant', u'Hereditary spastic paraplegia', u'Mental retardation', u'Neurodegeneration']",ENSG00000164961,Evidence at protein level,WASHC5,"[u'KIAA0196', u'SPG8']",None,[u'Nucleoplasm']
+E9PGM4,GBE1,"[u'Disease variant', u'Glycogen storage disease', u'Neuropathy']",ENSG00000114480,Evidence at protein level,GBE1,[],None,[u'Cytosol']
+P13236,CCL4,[u'Cancer-related genes'],ENSG00000275302,Evidence at protein level,CCL4,"[u'Act-2', u'AT744.1', u'LAG1', u'MIP-1-beta', u'SCYA4']",None,None
+A0A0J9YYL3,PUF60,[u'Disease variant'],ENSG00000179950,Evidence at protein level,PUF60,"[u'FIR', u'RoBPI', u'SIAHBP1']",None,[u'Nucleoplasm']
+Q9BVA0,KATNB1,"[u'Disease variant', u'Lissencephaly']",ENSG00000140854,Evidence at protein level,KATNB1,[],[u'Microtubules'],"[u'Plasma membrane', u'Cytosol']"
+Q5I0G2,PRL,[u'Cancer-related genes'],ENSG00000172179,Evidence at protein level,PRL,[],None,None
+Q8N3P4,VPS8,None,ENSG00000156931,Evidence at protein level,VPS8,"[u'FLJ32099', u'KIAA0804']",[u'Plasma membrane'],[u'Cytosol']
+Q7L1T6,CYB5R4,None,ENSG00000065615,Evidence at protein level,CYB5R4,"[u'b5+b5R', u'dJ676J13.1', u'NCB5OR']",None,None
+Q8TF40,FNIP1,None,ENSG00000217128,Evidence at protein level,FNIP1,[u'KIAA1961'],None,None
+Q9HBE1,PATZ1,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000100105,Evidence at protein level,PATZ1,"[u'dJ400N23', u'MAZR', u'PATZ', u'RIAZ', u'ZBTB19', u'ZNF278', u'ZSG']",None,[u'Nucleoplasm']
+Q8TF46,DIS3L,None,ENSG00000166938,Evidence at protein level,DIS3L,"[u'DIS3L1', u'FLJ38088', u'KIAA1955', u'MGC4562']",[u'Centrosome'],"[u'Plasma membrane', u'Cytosol']"
+O00463,TRAF5,None,ENSG00000082512,Evidence at protein level,TRAF5,[u'RNF84'],[u'Centrosome'],[u'Cytosol']
+H0YL99,MRPS11,None,ENSG00000181991,Evidence at protein level,MRPS11,"[u'FLJ22512', u'FLJ23406', u'HCC-2']",None,[u'Mitochondria']
+Q13105,ZBTB17,None,ENSG00000116809,Evidence at protein level,ZBTB17,"[u'MIZ1', u'pHZ-67', u'ZNF151', u'ZNF60']",None,None
+Q9Y2I1,NISCH,[u'FDA approved drug targets'],ENSG00000010322,Evidence at protein level,NISCH,"[u'I-1', u'IRAS', u'KIAA0975']","[u'Vesicles', u'Microtubules', u'Cytokinetic bridge']","[u'Nucleoplasm', u'Cytosol']"
+O15165,LDLRAD4,None,ENSG00000168675,Evidence at protein level,LDLRAD4,[u'C18orf1'],None,[u'Vesicles']
+Q9NQZ2,UTP3,None,ENSG00000132467,Evidence at protein level,UTP3,"[u'CRLZ1', u'DKFZp761F222', u'FLJ23256', u'SAS10']",[u'Vesicles'],[u'Nucleoli']
+P60510,PPP4C,None,ENSG00000149923,Evidence at protein level,PPP4C,"[u'PP4', u'PPX']","[u'Plasma membrane', u'Cytosol']",[u'Nucleoplasm']
+Q9NRD5,PICK1,None,ENSG00000100151,Evidence at protein level,PICK1,"[u'dJ1039K5', u'MGC15204', u'PRKCABP']",None,[u'Cytosol']
+Q07666,KHDRBS1,None,ENSG00000121774,Evidence at protein level,KHDRBS1,"[u'FLJ34027', u'p62', u'Sam68']",None,[u'Nucleoplasm']
+P17858,PFKL,None,ENSG00000141959,Evidence at protein level,PFKL,[],None,"[u'Nucleoli', u'Mitochondria']"
+Q96ER9,CCDC51,[u'FDA approved drug targets'],ENSG00000164051,Evidence at protein level,CCDC51,[u'FLJ12436'],[u'Centrosome'],"[u'Nucleoplasm', u'Mitochondria']"
+Q13596,SNX1,None,ENSG00000028528,Evidence at protein level,SNX1,"[u'HsT17379', u'MGC8664', u'SNX1A', u'Vps5']",None,"[u'Endosomes', u'Lysosomes']"
+Q9BUK0,CHCHD7,[u'Cancer-related genes'],ENSG00000170791,Evidence at protein level,CHCHD7,"[u'COX23', u'MGC2217']",[u'Aggresome'],[u'Cell Junctions']
+Q5T1V6,DDX59,"[u'Ciliopathy', u'Disease variant']",ENSG00000118197,Evidence at protein level,DDX59,"[u'DKFZP564B1023', u'ZNHIT5']",None,"[u'Nucleoplasm', u'Actin filaments']"
+Q9P021,CRIPT,"[u'Disease variant', u'Dwarfism']",ENSG00000119878,Evidence at protein level,CRIPT,[u'HSPC139'],None,"[u'Nucleoplasm', u'Nucleoli fibrillar center']"
+E9PRH5,ZNF692,None,ENSG00000171163,Evidence at protein level,ZNF692,"[u'AREBP', u'FLJ20531', u'Zfp692']",None,"[u'Nucleoplasm', u'Nucleoli']"
+Q8TBB0,THAP6,None,ENSG00000174796,Evidence at protein level,THAP6,[u'MGC30052'],[u'Nucleoplasm'],[u'Centrosome']
+Q9Y316,MEMO1,None,ENSG00000162959,Evidence at protein level,MEMO1,"[u'C2orf4', u'CGI-27', u'MEMO']",None,[u'Vesicles']
+Q76I76-2,SSH2,None,ENSG00000141298,Evidence at protein level,SSH2,[u'KIAA1725'],None,None
+Q9Y4E8,USP15,None,ENSG00000135655,Evidence at protein level,USP15,"[u'KIAA0529', u'UNPH4']","[u'Nucleoplasm', u'Nuclear bodies']",[u'Cytosol']
+Q9BRL7-2,SEC22C,None,ENSG00000093183,Evidence at protein level,SEC22C,"[u'MGC13261', u'MGC5373', u'SEC22L3']",[u'Nucleoplasm'],[u'Golgi apparatus']
+C9JYA1,NUPL2,None,ENSG00000136243,Evidence at protein level,NUP42,"[u'CG1', u'H_RG271G13.9', u'hCG1', u'NLP_1', u'NUPL2']",None,[u'Nucleoplasm']
+Q6P0Q8,MAST2,[u'Cancer-related genes'],ENSG00000086015,Evidence at protein level,MAST2,"[u'KIAA0807', u'MAST205']",None,[u'Cytosol']
+O43513,MED7,None,ENSG00000155868,Evidence at protein level,MED7,"[u'CRSP33', u'CRSP9']",None,[u'Nuclear bodies']
+O95243,MBD4,[u'Cancer-related genes'],ENSG00000129071,Evidence at protein level,MBD4,[u'MED1'],None,[u'Nuclear speckles']
+Q5J8M3,EMC4,None,ENSG00000128463,Evidence at protein level,EMC4,"[u'FLJ90746', u'MGC24415', u'PIG17', u'TMEM85']",None,None
+Q86W34,AMZ2,None,ENSG00000196704,Evidence at protein level,AMZ2,[],"[u'Nuclear bodies', u'Cytosol']",[u'Nucleoplasm']
+Q9UJA5,TRMT6,None,ENSG00000089195,Evidence at protein level,TRMT6,"[u'CGI-09', u'GCD10', u'Gcd10p', u'MGC5029']",[u'Cell Junctions'],[u'Nucleoplasm']
+Q8N6H7,ARFGAP2,None,ENSG00000149182,Evidence at protein level,ARFGAP2,"[u'FLJ14576', u'IRZ', u'Zfp289', u'ZNF289']",None,[u'Golgi apparatus']
+P06756,ITGAV,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000138448,Evidence at protein level,ITGAV,"[u'CD51', u'MSK8', u'VNRA', u'VTNR']",None,"[u'Focal adhesion sites', u'Cytosol']"
+P18146,EGR1,[u'Cancer-related genes'],ENSG00000120738,Evidence at protein level,EGR1,"[u'AT225', u'G0S30', u'KROX-24', u'NGFI-A', u'TIS8', u'ZIF-268', u'ZNF225']",None,[u'Nucleoplasm']
+O00409,FOXN3,None,ENSG00000053254,Evidence at protein level,FOXN3,"[u'C14orf116', u'CHES1']",[u'Plasma membrane'],[u'Nucleoplasm']
+E9PJZ4,MED17,"[u'Cancer-related genes', u'Disease variant']",ENSG00000042429,Evidence at protein level,MED17,"[u'CRSP6', u'CRSP77', u'DRIP80', u'SRB4', u'TRAP80']",[u'Cytosol'],[u'Nuclear speckles']
+P09629,HOXB7,None,ENSG00000260027,Evidence at protein level,HOXB7,"[u'HOX2', u'HOX2C']",[u'Cytosol'],"[u'Nucleoplasm', u'Nuclear bodies']"
+Q9Y2Y4,ZBTB32,None,ENSG00000011590,Evidence at protein level,ZBTB32,"[u'FAXF', u'FAZF', u'Rog', u'TZFP', u'ZNF538']",None,None
+P56381,ATP5E,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000124172,Evidence at protein level,ATP5F1E,[u'ATP5E'],None,None
+H3BU09,SIAH1,None,ENSG00000196470,Evidence at protein level,SIAH1,[u'hSIAH1'],[u'Nucleoplasm'],[u'Mitochondria']
+Q8IZD2-6,KMT2E,"[u'Disease variant', u'Mental retardation']",ENSG00000005483,Evidence at protein level,KMT2E,"[u'HDCMC04P', u'MLL5']",[u'Nuclear bodies'],[u'Nucleoplasm']
+Q9NUT2,ABCB8,None,ENSG00000197150,Evidence at protein level,ABCB8,"[u'EST328128', u'M-ABC1', u'MABC1', u'MITOSUR']",[u'Nucleoplasm'],[u'Mitochondria']
+I3L1A4,NFKBIB,None,ENSG00000104825,Evidence at protein level,NFKBIB,"[u'IKBB', u'TRIP9']",[u'Cytosol'],[u'Nucleoplasm']
+Q96SI9,STRBP,None,ENSG00000165209,Evidence at protein level,STRBP,"[u'FLJ11307', u'ILF3L', u'SPNR']",None,None
+Q8IYU8,MICU2,None,ENSG00000165487,Evidence at protein level,MICU2,[u'EFHA1'],[u'Mitochondria'],[u'Nucleoplasm']
+P51826-2,AFF3,[u'Cancer-related genes'],ENSG00000144218,Evidence at protein level,AFF3,"[u'LAF4', u'MLLT2-like']",[u'Cytosol'],[u'Nucleoplasm']
+O75821,EIF3G,None,ENSG00000130811,Evidence at protein level,EIF3G,"[u'eIF3-delta', u'eIF3-p44', u'EIF3S4']",None,[u'Cytosol']
+Q9BXS4,TMEM59,None,ENSG00000116209,Evidence at protein level,TMEM59,"[u'C1orf8', u'HSPC001']",None,None
+Q9H4A6,GOLPH3,None,ENSG00000113384,Evidence at protein level,GOLPH3,"[u'GOPP1', u'GPP34', u'MIDAS', u'Vps74']",None,"[u'Golgi apparatus', u'Vesicles']"
+Q9C0B5,ZDHHC5,None,ENSG00000156599,Evidence at protein level,ZDHHC5,"[u'DHHC5', u'KIAA1748', u'ZNF375']",[u'Nucleoplasm'],[u'Plasma membrane']
+Q13615,MTMR3,None,ENSG00000100330,Evidence at protein level,MTMR3,"[u'FYVE-DSP1', u'KIAA0371', u'ZFYVE10']",[u'Cytosol'],[u'Nucleoplasm']
+H0Y6F5,ZHX3,None,ENSG00000174306,Evidence at protein level,ZHX3,"[u'KIAA0395', u'TIX1']",None,[u'Nucleoplasm']
+Q9BRQ8,AIFM2,None,ENSG00000042286,Evidence at protein level,AIFM2,"[u'AMID', u'FLJ14497', u'PRG3']","[u'Plasma membrane', u'Cytosol']",[u'Vesicles']
+Q9H814,PHAX,None,ENSG00000164902,Evidence at protein level,PHAX,"[u'FLJ13193', u'RNUXA']",None,[u'Nucleoplasm']
+Q9BSM1,PCGF1,None,ENSG00000115289,Evidence at protein level,PCGF1,"[u'MGC10882', u'NSPC1', u'RNF68']",None,[u'Nucleoplasm']
+Q99828,CIB1,None,ENSG00000185043,Evidence at protein level,CIB1,"[u'CIB', u'KIP', u'SIP2-28']",None,"[u'Nucleoplasm', u'Plasma membrane']"
+Q8WXE1,ATRIP,None,ENSG00000164053,Evidence at protein level,ATRIP,"[u'FLJ12343', u'MGC20625', u'MGC21482', u'MGC26740']",None,[u'Nucleoplasm']
+Q7Z5L2,R3HCC1L,None,ENSG00000166024,Evidence at protein level,R3HCC1L,"[u'C10orf28', u'GIDRP86', u'PSORT']",None,"[u'Nucleoplasm', u'Nuclear speckles']"
+O43772,SLC25A20,[u'Disease variant'],ENSG00000178537,Evidence at protein level,SLC25A20,"[u'CAC', u'CACT']",None,"[u'Mitochondria', u'Cytosol']"
+P50440,GATM,[u'Disease variant'],ENSG00000171766,Evidence at protein level,GATM,[u'AGAT'],None,[u'Mitochondria']
+Q96EU6,RRP36,None,ENSG00000124541,Evidence at protein level,RRP36,"[u'C6orf153', u'dJ20C7.4']",None,"[u'Nucleoplasm', u'Nucleoli']"
+P20930,FLG,"[u'Cancer-related genes', u'Ichthyosis']",ENSG00000143631,Evidence at protein level,FLG,[],None,[u'Cytoplasmic bodies']
+B9EGE7,ZNF507,None,ENSG00000168813,Evidence at protein level,ZNF507,"[u'KIAA1084', u'Zfp507']",[u'Cytosol'],[u'Nucleoli']
+P30536,TSPO,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000100300,Evidence at protein level,TSPO,"[u'BZRP', u'DBI', u'IBP', u'MBR', u'mDRC', u'PBR', u'pk18', u'PKBS']","[u'Vesicles', u'Cytosol']",[u'Mitochondria']
+P31689,DNAJA1,None,ENSG00000086061,Evidence at protein level,DNAJA1,"[u'dj-2', u'hdj-2', u'HSJ2', u'HSPF4', u'NEDD7']",[u'Microtubules'],[u'Cytosol']
+Q8NFG4,FLCN,"[u'Cancer-related genes', u'Disease variant', u'Tumor suppressor']",ENSG00000154803,Evidence at protein level,FLCN,"[u'BHD', u'DENND8B', u'MGC17998', u'MGC23445']",[u'Plasma membrane'],[u'Cytosol']
+H0YL62,KATNBL1,None,ENSG00000134152,Evidence at protein level,KATNBL1,"[u'C15orf29', u'FLJ22557']","[u'Nucleoplasm', u'Cleavage furrow']","[u'Midbody', u'Mitotic spindle']"
+Q30134,HLA-DRB1,None,ENSG00000196126,Evidence at protein level,HLA-DRB1,[u'HLA-DR1B'],None,None
+Q86WB0,ZC3HC1,None,ENSG00000091732,Evidence at protein level,ZC3HC1,[u'NIPA'],None,"[u'Nucleoplasm', u'Nuclear membrane']"
+Q8N1G1,REXO1,None,ENSG00000079313,Evidence at protein level,REXO1,"[u'EloA-BP1', u'KIAA1138', u'TCEB3BP1']",[u'Nuclear bodies'],[u'Nucleoplasm']
+O00398,P2RY10,None,ENSG00000078589,Evidence at protein level,P2RY10,[u'P2Y10'],None,None
+P23743,DGKA,None,ENSG00000065357,Evidence at protein level,DGKA,"[u'DAGK', u'DAGK1', u'DGK-alpha']","[u'Nucleoplasm', u'Mitochondria']",[u'Vesicles']
+P42336,PIK3CA,"[u'Cancer-related genes', u'Disease variant', u'Proto-oncogene']",ENSG00000121879,Evidence at protein level,PIK3CA,[u'PI3K'],[u'Mitochondria'],[u'Cytosol']
+Q9H7P9,PLEKHG2,"[u'Disease variant', u'Leukodystrophy', u'Mental retardation', u'Tumor suppressor']",ENSG00000090924,Evidence at protein level,PLEKHG2,"[u'ARHGEF42', u'CLG', u'FLJ00018']",[u'Cytosol'],[u'Nucleoplasm']
+Q86UP3-5,ZFHX4,None,ENSG00000091656,Evidence at protein level,ZFHX4,"[u'FLJ20980', u'ZFH4']",None,"[u'Nucleoplasm', u'Nucleoli fibrillar center']"
+P04844,RPN2,None,ENSG00000118705,Evidence at protein level,RPN2,"[u'RIBIIR', u'RPN-II', u'RPNII', u'SWP1']",None,[u'Endoplasmic reticulum']
+Q13523,PRPF4B,None,ENSG00000112739,Evidence at protein level,PRPF4B,"[u'KIAA0536', u'PR4H', u'Prp4']",None,[u'Nuclear speckles']
+F2Z393,TALDO1,[u'Disease variant'],ENSG00000177156,Evidence at protein level,TALDO1,[],[u'Cytosol'],[u'Nucleoplasm']
+G3V419,MLH3,"[u'Disease variant', u'Hereditary nonpolyposis colorectal cancer']",ENSG00000119684,Evidence at protein level,MLH3,[],None,[u'Nucleoplasm']
+P22059,OSBP,None,ENSG00000110048,Evidence at protein level,OSBP,[u'OSBP1'],"[u'Nucleoplasm', u'Cytosol']",[u'Golgi apparatus']
+O43808,SLC25A17,None,ENSG00000100372,Evidence at protein level,SLC25A17,[u'PMP34'],None,[u'Peroxisomes']
+C9JDR0,NSDHL,"[u'Disease variant', u'Ichthyosis', u'Mental retardation']",ENSG00000147383,Evidence at protein level,NSDHL,"[u'H105e3', u'SDR31E1', u'XAP104']",[u'Lipid droplets'],[u'Endoplasmic reticulum']
+Q9UMS4,PRPF19,None,ENSG00000110107,Evidence at protein level,PRPF19,"[u'hPSO4', u'NMP200', u'PRP19', u'PSO4', u'SNEV', u'UBOX4']",None,[u'Nuclear speckles']
+Q9ULU4,ZMYND8,None,ENSG00000101040,Evidence at protein level,ZMYND8,"[u'PRKCBP1', u'RACK7']",[u'Golgi apparatus'],[u'Nucleoplasm']
+O60271,SPAG9,None,ENSG00000008294,Evidence at protein level,SPAG9,"[u'CT89', u'FLJ13450', u'FLJ14006', u'FLJ26141', u'FLJ34602', u'HLC4', u'HSS', u'JIP-4', u'JIP4', u'JLP', u'KIAA0516', u'MGC117291', u'MGC14967', u'MGC74461', u'PHET', u'PIG6', u'SYD1']",None,"[u'Centriolar satellite', u'Cytosol']"
+Q13303-3,KCNAB2,None,ENSG00000069424,Evidence at protein level,KCNAB2,"[u'AKR6A5', u'HKvbeta2.1', u'HKvbeta2.2', u'KCNA2B']",None,None
+A0A087WT67,ZNF195,None,ENSG00000005801,Evidence at protein level,ZNF195,[],[u'Cytosol'],[u'Nucleoplasm']
+Q9UBS3,DNAJB9,None,ENSG00000128590,Evidence at protein level,DNAJB9,[u'MDG1'],None,"[u'Endoplasmic reticulum', u'Cytosol']"
+E7EVJ3,NDST1,"[u'Disease variant', u'Mental retardation']",ENSG00000070614,Evidence at protein level,NDST1,"[u'HSST', u'NST1']",None,None
+Q9NRD1,FBXO6,[u'Cancer-related genes'],ENSG00000116663,Evidence at protein level,FBXO6,"[u'FBG2', u'FBS2', u'FBX6', u'Fbx6b']",None,None
+Q9UHA3,RSL24D1,None,ENSG00000137876,Evidence at protein level,RSL24D1,"[u'C15orf15', u'HRP-L30-iso', u'L30', u'RPL24', u'RPL24L']",None,"[u'Nucleoplasm', u'Nucleoli', u'Nucleoli rim']"
+O15254,ACOX3,None,ENSG00000087008,Evidence at protein level,ACOX3,[],None,[u'Peroxisomes']
+A0A087WV05,,None,ENSG00000121410,Evidence at protein level,A1BG,[],None,None
+A2RRP1,NBAS,"[u'Disease variant', u'Dwarfism']",ENSG00000151779,Evidence at protein level,NBAS,[u'NAG'],"[u'Nuclear membrane', u'Nucleoli']",[u'Golgi apparatus']
+Q14679,TTLL4,None,ENSG00000135912,Evidence at protein level,TTLL4,[u'KIAA0173'],None,[u'Mitochondria']
+P04921,GYPC,None,ENSG00000136732,Evidence at protein level,GYPC,"[u'CD236', u'CD236R', u'Ge', u'GPC', u'GYPD']",None,[u'Plasma membrane']
+H0YBY3,GM2A,"[u'Disease variant', u'Gangliosidosis']",ENSG00000196743,Evidence at protein level,GM2A,[u'SAP-3'],None,"[u'Vesicles', u'Cytosol']"
+B9A025,LOXL3,"[u'Deafness', u'Stickler syndrome']",ENSG00000115318,Evidence at protein level,LOXL3,[],None,None
+Q8IYS1,PM20D2,None,ENSG00000146281,Evidence at protein level,PM20D2,"[u'ACY1L2', u'bA63L7.3']",None,[u'Nucleoplasm']
+P28066,PSMA5,None,ENSG00000143106,Evidence at protein level,PSMA5,[u'ZETA'],None,[u'Cytosol']
+O75351,VPS4B,None,ENSG00000119541,Evidence at protein level,VPS4B,"[u'SKD1', u'SKD1B', u'VPS4-2']",[u'Intermediate filaments'],[u'Vesicles']
+Q9NYQ7,CELSR3,None,ENSG00000008300,Evidence at protein level,CELSR3,"[u'ADGRC3', u'CDHF11', u'EGFL1', u'FMI1', u'HFMI1', u'MEGF2']",None,None
+Q5SXM2,SNAPC4,None,ENSG00000165684,Evidence at protein level,SNAPC4,"[u'FLJ13451', u'PTFalpha', u'SNAP190']","[u'Nuclear membrane', u'Cytosol']",[u'Nucleoplasm']
+Q12983,BNIP3,[u'Cancer-related genes'],ENSG00000176171,Evidence at protein level,BNIP3,[u'Nip3'],None,None
+Q9HB09,BCL2L12,None,ENSG00000126453,Evidence at protein level,BCL2L12,[],[u'Plasma membrane'],[u'Vesicles']
+Q9Y2G9,SBNO2,None,ENSG00000064932,Evidence at protein level,SBNO2,"[u'FLJ00173', u'KIAA0963', u'Sno', u'Stno']",None,None
+P10606,COX5B,None,ENSG00000135940,Evidence at protein level,COX5B,[],None,[u'Mitochondria']
+Q9HBR0,SLC38A10,None,ENSG00000157637,Evidence at protein level,SLC38A10,"[u'MGC15523', u'PP1744']",None,[u'Golgi apparatus']
+Q9UI43,MRM2,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000122687,Evidence at protein level,MRM2,"[u'FJH1', u'FTSJ2', u'RRMJ2']",None,None
+Q15042,RAB3GAP1,None,ENSG00000115839,Evidence at protein level,RAB3GAP1,"[u'KIAA0066', u'RAB3GAP', u'RAB3GAP130', u'WARBM1']",[u'Cytosol'],[u'Nucleoplasm']
+Q9H0L4,CSTF2T,None,ENSG00000177613,Evidence at protein level,CSTF2T,"[u'CstF-64T', u'DKFZp434C1013', u'KIAA0689', u'tauCstF-64']",[u'Vesicles'],[u'Nucleoplasm']
+Q8IWC1,MAP7D3,None,ENSG00000129680,Evidence at protein level,MAP7D3,[u'FLJ12649'],[u'Cytosol'],[u'Centrosome']
+P03928,MT-ATP8,"[u'Cardiomyopathy', u'Disease variant', u'Primary mitochondrial disease']",ENSG00000228253,Evidence at protein level,MT-ATP8,"[u'A6L', u'ATP8', u'MTATP8']",None,None
+O15111,CHUK,None,ENSG00000213341,Evidence at protein level,CHUK,"[u'IkBKA', u'IKK-alpha', u'IKK1', u'IKKA', u'NFKBIKA', u'TCF16']",[u'Cytosol'],[u'Nucleoplasm']
+Q0D2I5,IFFO1,None,ENSG00000010295,Evidence at protein level,IFFO1,"[u'HOM-TES-103', u'IFFO']",None,None
+Q9NP31,SH2D2A,None,ENSG00000027869,Evidence at protein level,SH2D2A,"[u'F2771', u'TSAd']",None,None
+Q14687,GSE1,None,ENSG00000131149,Evidence at protein level,GSE1,[u'KIAA0182'],[u'Nucleoplasm'],[u'Mitochondria']
+Q9NRG9,AAAS,[u'Disease variant'],ENSG00000094914,Evidence at protein level,AAAS,[],"[u'Centrosome', u'Cytosol']",[u'Nuclear membrane']
+Q9BXS5,AP1M1,None,ENSG00000072958,Evidence at protein level,AP1M1,"[u'AP47', u'CLAPM2']",None,None
+J3QRQ3,DHODH,[u'Disease variant'],ENSG00000102967,Evidence at protein level,DHODH,[],"[u'Nucleoplasm', u'Cytosol']",[u'Mitochondria']
+P13682,ZNF35,None,ENSG00000169981,Evidence at protein level,ZNF35,"[u'HF.10', u'HF10', u'Zfp105']",None,[u'Nucleoplasm']
+Q9HCC0,MCCC2,[u'Disease variant'],ENSG00000131844,Evidence at protein level,MCCC2,[u'MCCB'],None,[u'Mitochondria']
+Q9Y3A2,UTP11,None,ENSG00000183520,Evidence at protein level,UTP11,"[u'CGI-94', u'UTP11L']",None,[u'Nucleoplasm']
+P32121-4,ARRB2,None,ENSG00000141480,Evidence at protein level,ARRB2,"[u'ARR2', u'BARR2', u'DKFZp686L0365']","[u'Nucleoplasm', u'Cytosol']",[u'Plasma membrane']
+C9JQ16,SNX10,"[u'Disease variant', u'Osteopetrosis']",ENSG00000086300,Evidence at protein level,SNX10,[],[u'Nucleoli'],"[u'Nucleoplasm', u'Microtubules']"
+Q8IY22,CMIP,None,ENSG00000153815,Evidence at protein level,CMIP,[],None,"[u'Nucleoplasm', u'Cytosol']"
+P16188,HLA-A,[u'Cancer-related genes'],ENSG00000206503,Evidence at protein level,HLA-A,[],[u'Golgi apparatus'],[u'Plasma membrane']
+Q8N823,ZNF611,None,ENSG00000213020,Evidence at protein level,ZNF611,[u'MGC5384'],None,None
+Q6IQ26,DENND5A,"[u'Disease variant', u'Epilepsy']",ENSG00000184014,Evidence at protein level,DENND5A,"[u'FLJ22354', u'FLJ33829', u'FLJ43455', u'KIAA1091', u'RAB6IP1']",None,"[u'Golgi apparatus', u'Vesicles']"
+Q99720,SIGMAR1,"[u'Amyotrophic lateral sclerosis', u'Disease variant', u'FDA approved drug targets', u'Neurodegeneration']",ENSG00000147955,Evidence at protein level,SIGMAR1,"[u'OPRS1', u'SR-BP1']",None,None
+Q6P996,PDXDC1,None,ENSG00000179889,Evidence at protein level,PDXDC1,[u'KIAA0251'],None,"[u'Golgi apparatus', u'Vesicles']"
+Q9Y274,ST3GAL6,None,ENSG00000064225,Evidence at protein level,ST3GAL6,"[u'SIAT10', u'ST3GALVI']",None,None
+G3XAL9,SLC12A2,[u'FDA approved drug targets'],ENSG00000064651,Evidence at protein level,SLC12A2,"[u'BSC', u'BSC2', u'NKCC1', u'PPP1R141']",[u'Plasma membrane'],[u'Vesicles']
+Q04206,RELA,"[u'Cancer-related genes', u'Disease variant']",ENSG00000173039,Evidence at protein level,RELA,"[u'NFKB3', u'p65']",None,[u'Cytosol']
+Q5EE01,CENPW,None,ENSG00000203760,Evidence at protein level,CENPW,"[u'C6orf173', u'CUG2']",None,[u'Nucleoplasm']
+P49356,FNTB,[u'FDA approved drug targets'],ENSG00000257365,Evidence at protein level,FNTB,[u'FPTB'],None,[u'Centrosome']
+Q13823,GNL2,None,ENSG00000134697,Evidence at protein level,GNL2,"[u'HUMAUANTIG', u'Ngp-1', u'Nog2', u'Nug2']",None,"[u'Nucleoli', u'Nucleoli rim']"
+P30154,PPP2R1B,None,ENSG00000137713,Evidence at protein level,PPP2R1B,"[u'PP2A-Abeta', u'PR65B']",None,"[u'Plasma membrane', u'Cytosol']"
+P50991,CCT4,None,ENSG00000115484,Evidence at protein level,CCT4,[u'Cctd'],[u'Nucleoplasm'],[u'Cytosol']
+Q12873,CHD3,"[u'Disease variant', u'Mental retardation']",ENSG00000170004,Evidence at protein level,CHD3,"[u'Mi-2a', u'Mi2-ALPHA', u'ZFH']",[u'Centriolar satellite'],"[u'Nucleoplasm', u'Nucleoli']"
+Q9NVH2,INTS7,None,ENSG00000143493,Evidence at protein level,INTS7,"[u'C1orf73', u'DKFZP434B168', u'INT7']",None,[u'Nuclear bodies']
+A6NMQ1,POLA1,"[u'Disease variant', u'Dwarfism', u'FDA approved drug targets', u'Mental retardation']",ENSG00000101868,Evidence at protein level,POLA1,"[u'NSX', u'p180', u'POLA']",[u'Cytosol'],[u'Nucleoplasm']
+Q96Q15,SMG1,None,ENSG00000157106,Evidence at protein level,SMG1,"[u'ATX', u'KIAA0421', u'LIP']",None,[u'Nucleoplasm']
+Q8N3U4,STAG2,"[u'Cancer-related genes', u'Disease variant', u'Holoprosencephaly']",ENSG00000101972,Evidence at protein level,STAG2,"[u'SA-2', u'SA2', u'SCC3B']",None,"[u'Nucleoplasm', u'Nucleoli', u'Nucleoli fibrillar center']"
+K7EP73,GAPDHS,None,ENSG00000105679,Evidence at protein level,GAPDHS,"[u'GAPD2', u'GAPDH-2', u'GAPDS']",[u'Centrosome'],[u'Nucleoplasm']
+Q99704,DOK1,None,ENSG00000115325,Evidence at protein level,DOK1,[u'p62dok'],None,[u'Cytosol']
+Q8TD19,NEK9,[u'Disease variant'],ENSG00000119638,Evidence at protein level,NEK9,"[u'DKFZp434D0935', u'MGC16714', u'Nek8', u'NERCC', u'NERCC1']",None,None
+H0YE29,ARHGAP1,None,ENSG00000175220,Evidence at protein level,ARHGAP1,"[u'CDC42GAP', u'p50rhoGAP', u'RhoGAP']",None,[u'Vesicles']
+P48047,ATP5O,None,ENSG00000241837,Evidence at protein level,ATP5PO,"[u'ATP5O', u'ATPO', u'OSCP']",None,[u'Mitochondria']
+P10809,HSPD1,"[u'Cancer-related genes', u'Disease variant', u'Hereditary spastic paraplegia', u'Leukodystrophy', u'Neurodegeneration']",ENSG00000144381,Evidence at protein level,HSPD1,"[u'GroEL', u'HSP60', u'SPG13']",None,[u'Mitochondria']
+P51553,IDH3G,None,ENSG00000067829,Evidence at protein level,IDH3G,[],None,"[u'Nucleoli', u'Mitochondria']"
+H0Y7Q2,VPS50,None,ENSG00000004766,Evidence at protein level,VPS50,"[u'CCDC132', u'DKFZp313I2429', u'FLJ20097', u'KIAA1861', u'VPS54L']",[u'Plasma membrane'],[u'Cytosol']
+O14965,AURKA,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000087586,Evidence at protein level,AURKA,"[u'AIK', u'ARK1', u'AurA', u'BTAK', u'PPP1R47', u'STK15', u'STK6', u'STK7']","[u'Mitotic spindle', u'Cytosol']","[u'Nucleoplasm', u'Centrosome']"
+Q07021,C1QBP,"[u'Cancer-related genes', u'Disease variant', u'Primary mitochondrial disease']",ENSG00000108561,Evidence at protein level,C1QBP,"[u'gC1Q-R', u'gC1qR', u'HABP1', u'p32', u'SF2p32']",[u'Mitochondria'],[u'Plasma membrane']
+Q96QP1,ALPK1,None,ENSG00000073331,Evidence at protein level,ALPK1,"[u'FLJ22670', u'KIAA1527', u'Lak']",None,[u'Centrosome']
+F8WDV0,IPO11,None,ENSG00000086200,Evidence at protein level,IPO11,[u'RanBP11'],[u'Cytosol'],[u'Nucleoplasm']
+Q9Y289,SLC5A6,"[u'Disease variant', u'Neurodegeneration']",ENSG00000138074,Evidence at protein level,SLC5A6,[u'SMVT'],None,[u'Plasma membrane']
+Q8IX12,CCAR1,[u'Cancer-related genes'],ENSG00000060339,Evidence at protein level,CCAR1,"[u'CARP-1', u'CARP1', u'FLJ10590']",[u'Golgi apparatus'],[u'Nucleoplasm']
+Q4J6C6,PREPL,"[u'Congenital myasthenic syndrome', u'Disease variant']",ENSG00000138078,Evidence at protein level,PREPL,[u'KIAA0436'],None,None
+O95396,MOCS3,None,ENSG00000124217,Evidence at protein level,MOCS3,"[u'dJ914P20.3', u'UBA4']",None,None
+F5H2S8,PTPN22,"[u'Diabetes mellitus', u'Disease variant', u'Systemic lupus erythematosus']",ENSG00000134242,Evidence at protein level,PTPN22,"[u'Lyp', u'Lyp1', u'Lyp2', u'PTPN8']","[u'Vesicles', u'Plasma membrane']",[u'Nucleoplasm']
+Q96B01,RAD51AP1,None,ENSG00000111247,Evidence at protein level,RAD51AP1,[u'PIR51'],None,[u'Nucleoplasm']
+Q86XI2,NCAPG2,[u'Disease variant'],ENSG00000146918,Evidence at protein level,NCAPG2,"[u'CAP-G2', u'FLJ20311', u'hCAP-G2', u'LUZP5', u'MTB']",[u'Nuclear speckles'],[u'Nucleoplasm']
+P04035,HMGCR,[u'FDA approved drug targets'],ENSG00000113161,Evidence at protein level,HMGCR,[],None,None
+P15848,ARSB,"[u'Disease variant', u'Ichthyosis', u'Leukodystrophy', u'Metachromatic leukodystrophy', u'Mucopolysaccharidosis']",ENSG00000113273,Evidence at protein level,ARSB,[],None,[u'Golgi apparatus']
+Q9NRF9,POLE3,[u'FDA approved drug targets'],ENSG00000148229,Evidence at protein level,POLE3,"[u'CHARAC17', u'CHRAC17', u'CHRAC2', u'p17', u'Ybl1']",None,"[u'Nucleoplasm', u'Nucleoli']"
+P59923,ZNF445,None,ENSG00000185219,Evidence at protein level,ZNF445,"[u'ZKSCAN15', u'ZNF168', u'ZSCAN47']","[u'Mitochondria', u'Cytosol']",[u'Nucleoplasm']
+F5H5D3,TUBA1C,None,ENSG00000167553,Evidence at protein level,TUBA1C,"[u'bcm948', u'MGC10851', u'MGC14580', u'TUBA6']",None,[u'Microtubules']
+O60518,RANBP6,None,ENSG00000137040,Evidence at protein level,RANBP6,[],None,[u'Vesicles']
+Q15011,HERPUD1,[u'Cancer-related genes'],ENSG00000051108,Evidence at protein level,HERPUD1,"[u'HERP', u'KIAA0025', u'Mif1', u'SUP']",None,"[u'Plasma membrane', u'Cytosol']"
+Q13416,ORC2,None,ENSG00000115942,Evidence at protein level,ORC2,[u'ORC2L'],[u'Cytosol'],[u'Nucleoplasm']
+G5E975,SMARCB1,"[u'Cancer-related genes', u'Disease variant', u'Hypotrichosis', u'Mental retardation', u'Tumor suppressor']",ENSG00000099956,Evidence at protein level,SMARCB1,"[u'BAF47', u'hSNFS', u'Ini1', u'PPP1R144', u'RDT', u'Sfh1p', u'SNF5', u'SNF5L1', u'Snr1']",[u'Nucleoli fibrillar center'],[u'Nucleoplasm']
+Q8TEK8,RASSF5,[u'Tumor suppressor'],ENSG00000266094,Evidence at protein level,RASSF5,"[u'Maxp1', u'NORE1', u'RAPL']",None,None
+P48059,LIMS1,None,ENSG00000169756,Evidence at protein level,LIMS1,"[u'PINCH', u'PINCH1']",[u'Focal adhesion sites'],[u'Cytosol']
+F8VR77,PA2G4,None,ENSG00000170515,Evidence at protein level,PA2G4,[],None,[u'Cytosol']
+Q9H5V9,CXorf56,[u'Mental retardation'],ENSG00000018610,Evidence at protein level,CXorf56,[u'FLJ22965'],[u'Centrosome'],[u'Nucleoplasm']
+O14617,AP3D1,"[u'Albinism', u'Hermansky-Pudlak syndrome']",ENSG00000065000,Evidence at protein level,AP3D1,[u'ADTD'],None,[u'Cytosol']
+Q96BD5,PHF21A,"[u'Disease variant', u'Epilepsy', u'Mental retardation']",ENSG00000135365,Evidence at protein level,PHF21A,"[u'BHC80', u'BM-006', u'KIAA1696']",None,[u'Nucleoplasm']
+X6RFL8,RAB14,None,ENSG00000119396,Evidence at protein level,RAB14,"[u'FBP', u'RAB-14']",None,[u'Vesicles']
+Q8WXD5,GEMIN6,None,ENSG00000152147,Evidence at protein level,GEMIN6,[u'FLJ23459'],None,"[u'Nucleoplasm', u'Nuclear bodies']"
+C9JLC1,DARS,[u'Disease variant'],ENSG00000115866,Evidence at protein level,DARS1,[u'DARS'],None,[u'Cytosol']
+M0R050,EXOSC5,None,ENSG00000077348,Evidence at protein level,EXOSC5,"[u'hRrp46p', u'MGC12901', u'p12B', u'RRP41B', u'RRP46', u'Rrp46p']",[u'Nucleoplasm'],[u'Nucleoli']
+I3L0U8,DCTN5,None,ENSG00000166847,Evidence at protein level,DCTN5,"[u'MGC3248', u'p25']",None,"[u'Nucleoplasm', u'Nuclear membrane']"
+Q5JWF2,GNAS,"[u'Cancer-related genes', u'Cushing syndrome', u'Disease variant', u'Dwarfism', u'Obesity', u'Proto-oncogene']",ENSG00000087460,Evidence at protein level,GNAS,"[u'GNAS1', u'GNASXL', u'GPSA', u'NESP', u'NESP55', u'SCG6', u'SgVI']","[u'Plasma membrane', u'Cytosol']",[u'Nucleoplasm']
+A0A075B772,ZNF582,None,ENSG00000018869,Evidence at transcript level,ZNF582,[u'FLJ30927'],[u'Nucleoplasm'],[u'Cytosol']
+E9PKB5,PPM1A,None,ENSG00000100614,Evidence at protein level,PPM1A,"[u'MGC9201', u'PP2CA', u'PP2Calpha']",[u'Plasma membrane'],[u'Cytosol']
+P08133,ANXA6,None,ENSG00000197043,Evidence at protein level,ANXA6,[u'ANX6'],None,[u'Cytosol']
+J3KR97,TBCD,"[u'Disease variant', u'Neurodegeneration']",ENSG00000141556,Evidence at protein level,TBCD,[],None,None
+Q6P3W7,SCYL2,[u'Disease variant'],ENSG00000136021,Evidence at protein level,SCYL2,"[u'CVAK104', u'KIAA1360']",None,None
+O94864,SUPT7L,None,ENSG00000119760,Evidence at protein level,SUPT7L,"[u'KIAA0764', u'SPT7L', u'STAF65', u'STAF65gamma']",None,[u'Nucleoplasm']
+E9PQK8,ADNP,"[u'Autism spectrum disorder', u'Cancer-related genes', u'Mental retardation']",ENSG00000101126,Evidence at protein level,ADNP,"[u'ADNP1', u'KIAA0784']",None,[u'Nucleoplasm']
+O75151,PHF2,None,ENSG00000197724,Evidence at protein level,PHF2,"[u'CENP-35', u'JHDM1E', u'KDM7C', u'KIAA0662']",[u'Nucleoplasm'],[u'Nucleoli rim']
+P51825,AFF1,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000172493,Evidence at protein level,AFF1,"[u'AF-4', u'AF4', u'MLLT2', u'PBM1']",None,"[u'Nucleoplasm', u'Mitochondria']"
+Q7LG56,RRM2B,"[u'Disease variant', u'FDA approved drug targets', u'Neuropathy', u'Primary mitochondrial disease', u'Progressive external ophthalmoplegia']",ENSG00000048392,Evidence at protein level,RRM2B,[u'p53R2'],None,"[u'Nucleoplasm', u'Cytosol']"
+Q9H061,TMEM126A,None,ENSG00000171202,Evidence at protein level,TMEM126A,"[u'DKFZp586C1924', u'OPA7']",[u'Nucleoplasm'],[u'Cytosol']
+Q9Y6G1,TMEM14A,None,ENSG00000096092,Evidence at protein level,TMEM14A,"[u'C6orf73', u'PTD011']",None,"[u'Nucleoplasm', u'Endoplasmic reticulum']"
+P13164,IFITM1,None,ENSG00000185885,Evidence at protein level,IFITM1,"[u'9-27', u'CD225', u'DSPA2a', u'IFI17']","[u'Plasma membrane', u'Cytosol']",[u'Golgi apparatus']
+H0YKM4,LRRC28,None,ENSG00000168904,Evidence at protein level,LRRC28,"[u'FLJ34269', u'FLJ45242', u'MGC24976']","[u'Golgi apparatus', u'Mitochondria']",[u'Nucleoplasm']
+A0A140T998,PSMB8,"[u'Disease variant', u'FDA approved drug targets']",ENSG00000204264,Evidence at protein level,PSMB8,"[u'beta5i', u'D6S216E', u'LMP7', u'PSMB5i', u'RING10']",[u'Cytokinetic bridge'],[u'Vesicles']
+B7ZC39,SH3GLB2,None,ENSG00000148341,Evidence at protein level,SH3GLB2,[u'KIAA1848'],[u'Nucleoplasm'],[u'Cytosol']
+E7EPJ2,ITSN2,None,ENSG00000198399,Evidence at protein level,ITSN2,"[u'KIAA1256', u'PRO2015', u'SH3D1B', u'SH3P18', u'SWA', u'SWAP']",None,"[u'Vesicles', u'Plasma membrane']"
+Q9Y613,FHOD1,None,ENSG00000135723,Evidence at protein level,FHOD1,[u'FHOS'],None,[u'Cytosol']
+P11172,UMPS,[u'Disease variant'],ENSG00000114491,Evidence at protein level,UMPS,[],None,[u'Cytosol']
+A0A0A0MTR2,OGFOD1,None,ENSG00000087263,Evidence at protein level,OGFOD1,"[u'FLJ10826', u'KIAA1612', u'TPA1']",[u'Cytosol'],[u'Nucleoplasm']
+O75882,ATRN,None,ENSG00000088812,Evidence at protein level,ATRN,"[u'DPPT-L', u'MGCA']",None,[u'Cytosol']
+P81605,DCD,None,ENSG00000161634,Evidence at protein level,DCD,"[u'AIDD', u'DCD-1', u'DSEP', u'HCAP', u'PIF']",None,None
+Q3LXA3,DAK; TKFC,[u'Cataract'],ENSG00000149476,Evidence at protein level,TKFC,"[u'DAK', u'DKFZP586B1621', u'NET45']",[u'Nucleoplasm'],[u'Cytosol']
+A0A0A0MTI0,PBX1,"[u'Cancer-related genes', u'Disease variant', u'Proto-oncogene']",ENSG00000185630,Evidence at protein level,PBX1,[],"[u'Nuclear bodies', u'Cytosol']",[u'Nucleoplasm']
+O14494,PPAP2A; PLPP1,None,ENSG00000067113,Evidence at protein level,PLPP1,"[u'LPP1', u'PAP-2a', u'PPAP2A']",None,[u'Plasma membrane']
+H0YLH9,IL16,[u'Cancer-related genes'],ENSG00000172349,Evidence at protein level,IL16,"[u'FLJ16806', u'FLJ42735', u'HsT19289', u'IL-16', u'LCF', u'prIL-16']","[u'Plasma membrane', u'Cytosol']",[u'Nuclear speckles']
+P36954,POLR2I,None,ENSG00000105258,Evidence at protein level,POLR2I,"[u'hRPB14.5', u'RPB9']",None,[u'Nucleoplasm']
+Q8NBM4,UBAC2,None,ENSG00000134882,Evidence at protein level,UBAC2,"[u'FLJ30548', u'PHGDHL1', u'RP11-178C10.1']",None,[u'Cytosol']
+H0Y9B7,LEMD2,"[u'Cataract', u'Disease variant']",ENSG00000161904,Evidence at protein level,LEMD2,"[u'dJ482C21.1', u'LEM2', u'NET25']",None,[u'Nuclear membrane']
+Q969F1,GTF3C6,None,ENSG00000155115,Evidence at protein level,GTF3C6,"[u'bA397G5.3', u'C6orf51', u'TFIIIC35']",[u'Nuclear bodies'],[u'Nucleoplasm']
+P55199,ELL,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000105656,Evidence at protein level,ELL,"[u'C19orf17', u'ELL1', u'Men', u'PPP1R68']","[u'Nuclear bodies', u'Cytosol']",[u'Nucleoplasm']
+P82914,MRPS15,None,ENSG00000116898,Evidence at protein level,MRPS15,[u'FLJ11564'],None,[u'Mitochondria']
+F8W8A5,DONSON,"[u'Disease variant', u'Dwarfism']",ENSG00000159147,Evidence at protein level,DONSON,"[u'B17', u'C21orf60', u'C2TA', u'DKFZP434M035']",[u'Cytosol'],"[u'Nucleoplasm', u'Cell Junctions']"
+Q6JBY9,RCSD1,None,ENSG00000198771,Evidence at protein level,RCSD1,"[u'CapZIP', u'MGC21854', u'MK2S4']",None,[u'Plasma membrane']
+H0YKL6,FAM81A,None,ENSG00000157470,Evidence at protein level,FAM81A,[u'MGC26690'],[u'Cytosol'],[u'Nucleoplasm']
+Q92506,HSD17B8,None,ENSG00000204228,Evidence at protein level,HSD17B8,"[u'D6S2245E', u'FABGL', u'H2-KE6', u'HKE6', u'KE6', u'RING2', u'SDR30C1']",None,None
+M0QX88,VRK3,None,ENSG00000105053,Evidence at protein level,VRK3,[],None,"[u'Nucleoplasm', u'Vesicles']"
+Q8TAD8,SNIP1,"[u'Disease variant', u'Epilepsy']",ENSG00000163877,Evidence at protein level,SNIP1,[u'PML1'],[u'Cytosol'],[u'Nucleoplasm']
+F8WF50,RABL3,[u'Disease variant'],ENSG00000144840,Evidence at protein level,RABL3,[u'MGC23920'],None,[u'Endoplasmic reticulum']
+B0I1T2,MYO1G,None,ENSG00000136286,Evidence at protein level,MYO1G,[u'HA-2'],[u'Nucleoplasm'],[u'Plasma membrane']
+P13473,LAMP2,"[u'Disease variant', u'Glycogen storage disease']",ENSG00000005893,Evidence at protein level,LAMP2,[u'CD107b'],None,[u'Vesicles']
+Q3B7T1,C10orf137; EDRF1,None,ENSG00000107938,Evidence at protein level,EDRF1,"[u'C10orf137', u'DKFZp586F1019', u'FLJ21617']","[u'Centrosome', u'Cytosol']",[u'Nucleoplasm']
+G3V4K3,VIPAS39,None,ENSG00000151445,Evidence at protein level,VIPAS39,"[u'C14orf133', u'hSPE-39', u'SPE-39', u'SPE39', u'VIPAR', u'VPS16B']",None,None
+Q9NP77,SSU72,None,ENSG00000160075,Evidence at protein level,SSU72,[u'HSPC182'],None,"[u'Nucleoplasm', u'Cytosol']"
+Q86UL3,AGPAT6; GPAT4,None,ENSG00000158669,Evidence at protein level,GPAT4,"[u'AGPAT6', u'DKFZp586M1819', u'LPAAT-zeta', u'TSARG7']",None,None
+Q7Z7G8,VPS13B,"[u'Disease variant', u'Obesity']",ENSG00000132549,Evidence at protein level,VPS13B,"[u'CHS1', u'COH1']",None,[u'Cell Junctions']
+Q01432,AMPD3,[u'Disease variant'],ENSG00000133805,Evidence at protein level,AMPD3,[],None,[u'Nuclear membrane']
+P23368,ME2,None,ENSG00000082212,Evidence at protein level,ME2,[],None,[u'Mitochondria']
+Q8IWJ2,GCC2,None,ENSG00000135968,Evidence at protein level,GCC2,"[u'GCC185', u'KIAA0336']",[u'Nucleoplasm'],[u'Golgi apparatus']
+O96006,ZBED1,None,ENSG00000214717,Evidence at protein level,ZBED1,"[u'ALTE', u'DREF', u'hDREF', u'KIAA0785', u'TRAMP']",[u'Nuclear membrane'],"[u'Nucleoplasm', u'Centrosome']"
+H0Y4E8,SIK3,"[u'Disease variant', u'Dwarfism']",ENSG00000160584,Evidence at protein level,SIK3,"[u'FLJ12240', u'KIAA0999', u'L19', u'QSK']",None,[u'Nucleoplasm']
+Q9H6A0,DENND2D,None,ENSG00000162777,Evidence at protein level,DENND2D,"[u'FLJ22457', u'RP5-1180E21.2']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q96RE7,NACC1,"[u'Disease variant', u'Epilepsy', u'Mental retardation']",ENSG00000160877,Evidence at protein level,NACC1,"[u'BEND8', u'BTBD14B', u'BTBD30', u'NAC-1', u'NAC1']",[u'Vesicles'],[u'Nucleoplasm']
+Q71RC2,LARP4,None,ENSG00000161813,Evidence at protein level,LARP4,[u'PP13296'],[u'Nucleoli fibrillar center'],[u'Cytosol']
+Q9P0S9,TMEM14C,None,ENSG00000111843,Evidence at protein level,TMEM14C,"[u'bA421M1.6', u'C6orf53', u'HSPC194', u'NET26']",None,None
+F8WDK3,PPP4R2,None,ENSG00000163605,Evidence at protein level,PPP4R2,[],None,[u'Nucleoplasm']
+P06734,FCER2,[u'Cancer-related genes'],ENSG00000104921,Evidence at protein level,FCER2,"[u'CD23', u'CD23A', u'CLEC4J', u'FCE2']",None,None
+Q86U38,NOP9,None,ENSG00000196943,Evidence at protein level,NOP9,[u'C14orf21'],"[u'Nucleoli', u'Cytosol']",[u'Nucleoplasm']
+P40306,PSMB10,[u'FDA approved drug targets'],ENSG00000205220,Evidence at protein level,PSMB10,"[u'beta2i', u'LMP10', u'MECL1', u'MGC1665']",[u'Vesicles'],[u'Cytosol']
+H3BRE0,FBXO22,None,ENSG00000167196,Evidence at protein level,FBXO22,"[u'FBX22', u'FISTC1']",None,None
+O15084-1,ANKRD28,None,ENSG00000206560,Evidence at protein level,ANKRD28,"[u'CFAP79', u'FAP79', u'KIAA0379', u'PITK', u'PP6-ARS-A', u'PPP1R65']",None,None
+P08910,ABHD2,None,ENSG00000140526,Evidence at protein level,ABHD2,[u'LABH2'],[u'Nucleoplasm'],[u'Cytosol']
+F8W8S8,MTMR1,None,ENSG00000063601,Evidence at protein level,MTMR1,[],None,[u'Vesicles']
+O60234,GMFG,None,ENSG00000130755,Evidence at protein level,GMFG,[],[u'Nuclear bodies'],"[u'Nucleoplasm', u'Cytosol']"
+H0YJH7,TMPO,[u'Cardiomyopathy'],ENSG00000120802,Evidence at protein level,TMPO,"[u'LAP2', u'LEMD4', u'TP']",None,[u'Nuclear membrane']
+Q6KC79,NIPBL,"[u'Disease variant', u'Mental retardation']",ENSG00000164190,Evidence at protein level,NIPBL,"[u'DKFZp434L1319', u'FLJ11203', u'FLJ12597', u'FLJ13354', u'FLJ13648', u'IDN3', u'Scc2']","[u'Vesicles', u'Cytosol']",[u'Nucleoplasm']
+O75964,ATP5L,None,ENSG00000167283,Evidence at protein level,ATP5MG,"[u'ATP5JG', u'ATP5L']",None,[u'Mitochondria']
+P52272,HNRNPM,None,ENSG00000099783,Evidence at protein level,HNRNPM,"[u'CEAR', u'HNRNPM4', u'HNRPM', u'HNRPM4', u'HTGR1', u'NAGR1']",None,[u'Nucleoplasm']
+C9JEL3,EIF4E2,None,ENSG00000135930,Evidence at protein level,EIF4E2,"[u'4EHP', u'EIF4EL3', u'IF4e']",[u'Cytosol'],[u'Mitochondria']
+Q9NSK0,KLC4,None,ENSG00000137171,Evidence at protein level,KLC4,"[u'bA387M24.3', u'KNSL8']",[u'Cytosol'],[u'Mitochondria']
+K7EML4,WDR18,None,ENSG00000065268,Evidence at protein level,WDR18,[u'Ipi3'],None,[u'Nucleoplasm']
+Q9P0J0-2,NDUFA13,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000186010,Evidence at protein level,NDUFA13,"[u'B16.6', u'CDA016', u'CGI-39', u'GRIM-19', u'GRIM19']",None,[u'Mitochondria']
+Q86YP4,GATAD2A,None,ENSG00000167491,Evidence at protein level,GATAD2A,[u'p66alpha'],None,[u'Nucleoplasm']
+Q8TEV9,SMCR8,None,ENSG00000176994,Evidence at protein level,SMCR8,"[u'DENND8A', u'FLJ34716']",None,[u'Nucleoplasm']
+D6R9G1,CDK7,[u'Cancer-related genes'],ENSG00000134058,Evidence at protein level,CDK7,"[u'CAK', u'CAK1', u'CDKN7', u'MO15', u'STK1']","[u'Nucleoli fibrillar center', u'Plasma membrane', u'Cytosol']",[u'Nucleoplasm']
+H3BSW6,CTU2,[u'Primary microcephaly'],ENSG00000174177,Evidence at protein level,CTU2,"[u'C16orf84', u'NCS2']",None,[u'Mitochondria']
+P17030,ZNF25,None,ENSG00000175395,Evidence at protein level,ZNF25,"[u'FLJ31890', u'KOX19', u'Zfp9']",None,"[u'Nucleoplasm', u'Golgi apparatus']"
+A8MUM1,TSSC1; EIPR1,None,ENSG00000032389,Evidence at protein level,EIPR1,"[u'EIPR-1', u'TSSC1']",[u'Intermediate filaments'],"[u'Nucleoplasm', u'Nucleoli']"
+Q96AX1,VPS33A,"[u'Disease variant', u'Mucopolysaccharidosis']",ENSG00000139719,Evidence at protein level,VPS33A,[],None,[u'Nucleoplasm']
+Q9UBN7,HDAC6,[u'FDA approved drug targets'],ENSG00000094631,Evidence at protein level,HDAC6,"[u'FLJ16239', u'HD6', u'JM21', u'KIAA0901', u'PPP1R90']",None,[u'Nucleoplasm']
+J3QRS7,PITPNC1,None,ENSG00000154217,Evidence at protein level,PITPNC1,"[u'RDGB-BETA', u'RDGBB', u'RDGBB1']",[u'Nucleoplasm'],[u'Cytosol']
+Q9UH92,MLX,None,ENSG00000108788,Evidence at protein level,MLX,"[u'bHLHd13', u'MAD7', u'MXD7', u'TCFL4']","[u'Nuclear membrane', u'Cytosol']",[u'Nucleoplasm']
+D3DSM0,ITGB2,[u'Disease variant'],ENSG00000160255,Evidence at protein level,ITGB2,"[u'CD18', u'LFA-1', u'MAC-1', u'MFI7']",[u'Rods & Rings'],[u'Plasma membrane']
+Q5VZE5,NAA35,None,ENSG00000135040,Evidence at protein level,NAA35,"[u'bA379P1.1', u'FLJ21613', u'FLJ22643', u'MAK10']",None,"[u'Nucleoplasm', u'Plasma membrane', u'Cytosol']"
+Q5TDG9,DNAJC16,None,ENSG00000116138,Evidence at protein level,DNAJC16,[u'KIAA0962'],None,[u'Vesicles']
+Q14155,ARHGEF7,None,ENSG00000102606,Evidence at protein level,ARHGEF7,"[u'BETA-PIX', u'COOL1', u'DKFZp686C12170', u'DKFZp761K1021', u'KIAA0142', u'Nbla10314', u'P50', u'P50BP', u'P85', u'P85COOL1', u'P85SPR', u'PAK3', u'PIXB']",None,None
+Q96AE4,FUBP1,[u'Cancer-related genes'],ENSG00000162613,Evidence at protein level,FUBP1,"[u'FBP', u'FUBP']",None,[u'Nucleoplasm']
+Q5JWR5,DOPEY1,None,ENSG00000083097,Evidence at protein level,DOP1A,"[u'dJ202D23.2', u'DOPEY1', u'KIAA1117']",[u'Vesicles'],[u'Nucleoplasm']
+H0YKN5,TGIF2,None,ENSG00000118707,Evidence at protein level,TGIF2,[],[u'Centrosome'],[u'Nucleoplasm']
+Q9Y2X9,ZNF281,None,ENSG00000162702,Evidence at protein level,ZNF281,[u'ZBP-99'],None,[u'Nucleoplasm']
+H7C352,RASGRP3,None,ENSG00000152689,Evidence at protein level,RASGRP3,"[u'CalDAG-GEFIII', u'GRP3', u'KIAA0846']",[u'Golgi apparatus'],[u'Nucleoplasm']
+Q8IVF7,FMNL3,None,ENSG00000161791,Evidence at protein level,FMNL3,"[u'DKFZp762B245', u'MGC45819', u'WBP3']",[u'Cytosol'],"[u'Golgi apparatus', u'Vesicles', u'Plasma membrane']"
+E5RH53,FAM82B; RMDN1,None,ENSG00000176623,Evidence at protein level,RMDN1,"[u'CGI-90', u'FAM82B', u'FLJ20665', u'RMD1']",[u'Actin filaments'],[u'Centrosome']
+B3KNX7,PAK1,"[u'Disease variant', u'Epilepsy', u'Mental retardation']",ENSG00000149269,Evidence at protein level,PAK1,[],None,"[u'Plasma membrane', u'Cytosol']"
+Q9H444,CHMP4B,"[u'Cataract', u'Disease variant']",ENSG00000101421,Evidence at protein level,CHMP4B,"[u'C20orf178', u'dJ553F4.4', u'Shax1', u'SNF7-2', u'VPS32B']",None,None
+Q8WVV9,HNRNPLL; HNRPLL,None,ENSG00000143889,Evidence at protein level,HNRNPLL,[u'HNRPLL'],"[u'Mitochondria', u'Cytosol']",[u'Nucleoplasm']
+Q3MIX3,ADCK5,None,ENSG00000173137,Evidence at protein level,ADCK5,[u'FLJ35454'],None,"[u'Plasma membrane', u'Cytosol']"
+F8WE88,MYO5A,[u'Cancer-related genes'],ENSG00000197535,Evidence at protein level,MYO5A,"[u'GS1', u'MYH12', u'MYO5', u'MYR12']",None,"[u'Focal adhesion sites', u'Centriolar satellite']"
+Q5VIR6-4,VPS53,"[u'Disease variant', u'Epilepsy', u'Mental retardation', u'Neurodegeneration']",ENSG00000141252,Evidence at protein level,VPS53,"[u'FLJ10979', u'HCCS1']",[u'Cytosol'],"[u'Golgi apparatus', u'Vesicles']"
+Q9BXP5,SRRT,None,ENSG00000087087,Evidence at protein level,SRRT,"[u'ARS2', u'Asr2', u'serrate']",None,[u'Nucleoplasm']
+Q53HC0,CCDC92,None,ENSG00000119242,Evidence at protein level,CCDC92,[u'FLJ22471'],[u'Nucleoplasm'],[u'Centrosome']
+Q5QPN9,LYPLA2,None,ENSG00000011009,Evidence at protein level,LYPLA2,[u'APT-2'],[u'Nucleoplasm'],[u'Cytosol']
+P25054,APC,"[u'Cancer-related genes', u'Disease variant', u'Tumor suppressor']",ENSG00000134982,Evidence at protein level,APC,"[u'DP2', u'DP2.5', u'DP3', u'PPP1R46']","[u'Nucleoplasm', u'Golgi apparatus']",[u'Plasma membrane']
+H3BT71,RBMX,"[u'Cancer-related genes', u'Mental retardation', u'Tumor suppressor']",ENSG00000147274,Evidence at protein level,RBMX,"[u'hnRNP-G', u'HNRNPG', u'RNMX']",None,[u'Nucleoplasm']
+P06865,HEXA,"[u'Disease variant', u'Gangliosidosis', u'Neurodegeneration']",ENSG00000213614,Evidence at protein level,HEXA,[],[u'Cytosol'],[u'Vesicles']
+P39748,FEN1,[u'Cancer-related genes'],ENSG00000168496,Evidence at protein level,FEN1,"[u'FEN-1', u'MF1', u'RAD2']",[u'Nucleoli'],[u'Nucleoplasm']
+P34896,SHMT1,None,ENSG00000176974,Evidence at protein level,SHMT1,"[u'CSHMT', u'MGC15229', u'MGC24556', u'SHMT']",[u'Nucleoplasm'],[u'Cytosol']
+P46087,NOP2,None,ENSG00000111641,Evidence at protein level,NOP2,"[u'NOL1', u'NOP120', u'NSUN1', u'p120']",None,[u'Nucleoli']
+P23284,PPIB,"[u'Disease variant', u'Dwarfism', u'Osteogenesis imperfecta']",ENSG00000166794,Evidence at protein level,PPIB,"[u'B', u'CYP-S1', u'CYPB', u'OI9', u'PPIase', u'SCYLP']",[u'Nucleoplasm'],[u'Endoplasmic reticulum']
+Q99437,ATP6V0B,None,ENSG00000117410,Evidence at protein level,ATP6V0B,"[u'ATP6F', u'HATPL', u'VMA16']",None,[u'Cytosol']
+Q9BX40,LSM14B,None,ENSG00000149657,Evidence at protein level,LSM14B,"[u'bA11M20.3', u'C20orf40', u'FAM61B', u'FLJ25473', u'FT005', u'LSM13', u'RAP55B']",None,[u'Vesicles']
+Q86V24,ADIPOR2,None,ENSG00000006831,Evidence at protein level,ADIPOR2,"[u'ACDCR2', u'PAQR2']",None,None
+Q2VPB7,AP5B1,None,ENSG00000254470,Evidence at protein level,AP5B1,"[u'AP-5', u'DKFZp761E198', u'PP1030']",[u'Golgi apparatus'],"[u'Nucleoplasm', u'Vesicles']"
+O75792,RNASEH2A,"[u'Aicardi-Goutieres syndrome', u'Disease variant']",ENSG00000104889,Evidence at protein level,RNASEH2A,"[u'AGS4', u'RNASEHI', u'RNHIA', u'RNHL']",[u'Cytosol'],[u'Nucleoplasm']
+H7C3X2,YIPF4,None,ENSG00000119820,Evidence at protein level,YIPF4,"[u'FinGER4', u'MGC11061']","[u'Vesicles', u'Plasma membrane']",[u'Golgi apparatus']
+Q9BUR4,WRAP53,"[u'Disease variant', u'Dyskeratosis congenita']",ENSG00000141499,Evidence at protein level,WRAP53,"[u'FLJ10385', u'TCAB1', u'WDR79']","[u'Nucleoplasm', u'Cytosol']",[u'Nuclear bodies']
+Q14690,PDCD11,None,ENSG00000148843,Evidence at protein level,PDCD11,"[u'ALG-4', u'KIAA0185', u'NFBP', u'RRP5']",[u'Vesicles'],[u'Nucleoli rim']
+Q8IY18,SMC5,None,ENSG00000198887,Evidence at protein level,SMC5,"[u'KIAA0594', u'SMC5L1']",None,[u'Nuclear speckles']
+Q96Q27,ASB2,None,ENSG00000100628,Evidence at protein level,ASB2,[u'ASB-2'],"[u'Nucleoplasm', u'Cytosol']",[u'Nucleoli fibrillar center']
+Q15036,SNX17,None,ENSG00000115234,Evidence at protein level,SNX17,[u'KIAA0064'],[u'Cytosol'],[u'Vesicles']
+H7BXJ4,FCHO2,None,ENSG00000157107,Evidence at protein level,FCHO2,[],"[u'Vesicles', u'Cytosol']",[u'Centrosome']
+P04049,RAF1,"[u'Cancer-related genes', u'Cardiomyopathy', u'Deafness', u'Disease variant', u'FDA approved drug targets', u'Proto-oncogene']",ENSG00000132155,Evidence at protein level,RAF1,"[u'c-Raf', u'CRAF', u'Raf-1']",None,"[u'Plasma membrane', u'Cytosol']"
+P68104,EEF1A1,[u'Cancer-related genes'],ENSG00000156508,Evidence at protein level,EEF1A1,"[u'EE1A1', u'EEF1A', u'EF1A', u'LENG7']",None,[u'Cytosol']
+P19878,NCF2,"[u'Chronic granulomatous disease', u'Disease variant']",ENSG00000116701,Evidence at protein level,NCF2,"[u'NOXA2', u'p67phox']",None,[u'Cytosol']
+O75204,TMEM127,"[u'Cancer-related genes', u'Tumor suppressor']",ENSG00000135956,Evidence at protein level,TMEM127,"[u'FLJ20507', u'FLJ22257']",None,None
+Q9HCM1,KIAA1551,None,ENSG00000174718,Evidence at protein level,RESF1,"[u'C12orf35', u'FLJ10652', u'FLJ20696', u'GET', u'KIAA1551', u'UTA2-1']","[u'Intermediate filaments', u'Cytosol']","[u'Nucleoli', u'Nucleoli rim']"
+Q86Y91,KIF18B,None,ENSG00000186185,Evidence at protein level,KIF18B,[],"[u'Nuclear bodies', u'Cytosol']","[u'Nucleoplasm', u'Microtubule ends']"
+E5RJH9,SQLE,[u'FDA approved drug targets'],ENSG00000104549,Evidence at protein level,SQLE,[],None,"[u'Vesicles', u'Cytosol']"
+Q12955,ANK3,"[u'Autism spectrum disorder', u'Cancer-related genes', u'Mental retardation']",ENSG00000151150,Evidence at protein level,ANK3,[],None,[u'Plasma membrane']
+Q96CG3,TIFA,None,ENSG00000145365,Evidence at protein level,TIFA,"[u'MGC20791', u'T2BP', u'T6BP', u'TIFAA']",[u'Cytosol'],"[u'Nucleoplasm', u'Nucleoli']"
+F5GWB1,CCDC91,None,ENSG00000123106,Evidence at protein level,CCDC91,"[u'DKFZp779L1558', u'FLJ11088', u'p56']",[u'Nucleoplasm'],[u'Golgi apparatus']
+Q9BZJ0,CRNKL1,None,ENSG00000101343,Evidence at protein level,CRNKL1,"[u'CLF', u'Clf1', u'CRN', u'SYF3']",None,None
+E7EW33,CYFIP2,"[u'Disease variant', u'Epilepsy']",ENSG00000055163,Evidence at protein level,CYFIP2,[u'PIR121'],"[u'Plasma membrane', u'Cytosol']",[u'Endoplasmic reticulum']
+E9PIL2,ANKRD42,None,ENSG00000137494,Evidence at protein level,ANKRD42,"[u'FLJ37874', u'PPP1R79', u'SARP']",[u'Plasma membrane'],"[u'Nucleoplasm', u'Cytosol']"
+Q14149,MORC3,None,ENSG00000159256,Evidence at protein level,MORC3,"[u'KIAA0136', u'NXP2', u'ZCW5', u'ZCWCC3']",[u'Mitochondria'],[u'Nucleoplasm']
+Q9Y2W1,THRAP3,None,ENSG00000054118,Evidence at protein level,THRAP3,"[u'BCLAF2', u'TRAP150']",None,[u'Nuclear speckles']
+E5RH51,SMIM12,None,ENSG00000163866,Evidence at protein level,SMIM12,"[u'C1orf212', u'FLJ90372']",None,[u'Mitochondria']
+Q9NXX6,NSMCE4A,None,ENSG00000107672,Evidence at protein level,NSMCE4A,"[u'bA500G22.3', u'C10orf86', u'FLJ20003', u'NSE4A']",None,[u'Nucleoplasm']
+H7C3J7,ARPP21,None,ENSG00000172995,Evidence at protein level,ARPP21,"[u'ARPP-21', u'R3HDM3', u'TARPP']",[u'Cytosol'],[u'Nucleoli']
+Q9NX08,COMMD8,None,ENSG00000169019,Evidence at protein level,COMMD8,[u'FLJ20502'],None,"[u'Nucleoplasm', u'Cytosol']"
+Q8IU68,TMC8,[u'Disease variant'],ENSG00000167895,Evidence at protein level,TMC8,"[u'EVER2', u'EVIN2']",None,[u'Golgi apparatus']
+Q96EH5,RPL39L,None,ENSG00000163923,Evidence at protein level,RPL39L,[u'RPL39L1'],None,None
+J3KP75,PHACTR2,None,ENSG00000112419,Evidence at protein level,PHACTR2,"[u'C6orf56', u'KIAA0680']",[u'Plasma membrane'],[u'Golgi apparatus']
+Q15642-3,TRIP10,None,ENSG00000125733,Evidence at protein level,TRIP10,"[u'CIP4', u'HSTP', u'STOT', u'STP']",[u'Nucleoplasm'],[u'Vesicles']
+A0A0B4J206,MARCH6,[u'Epilepsy'],ENSG00000145495,Evidence at protein level,MARCHF6,"[u'MARCH-VI', u'MARCH6', u'RNF176', u'TEB4']",None,[u'Endoplasmic reticulum']
+F8W088,VEZT,None,ENSG00000028203,Evidence at protein level,VEZT,[u'DKFZP761C241'],[u'Cytosol'],[u'Nucleoplasm']
+P82921,MRPS21,None,ENSG00000266472,Evidence at protein level,MRPS21,[],None,[u'Mitochondria']
+Q96GE5,ZNF799,None,ENSG00000196466,Evidence at protein level,ZNF799,"[u'HIT-40', u'MGC71805', u'ZNF842']",[u'Centriolar satellite'],[u'Nucleoplasm']
+Q9BYX4,IFIH1,"[u'Aicardi-Goutieres syndrome', u'Diabetes mellitus', u'Disease variant']",ENSG00000115267,Evidence at protein level,IFIH1,"[u'Hlcd', u'IDDM19', u'MDA-5', u'MDA5']",None,None
+A0A1B0GV71,CLN3,"[u'Disease variant', u'Neurodegeneration', u'Neuronal ceroid lipofuscinosis']",ENSG00000188603,Evidence at protein level,CLN3,"[u'BTN1', u'BTS', u'JNCL']",None,None
+Q27J81,INF2,"[u'Charcot-Marie-Tooth disease', u'Disease variant', u'Neurodegeneration', u'Neuropathy']",ENSG00000203485,Evidence at protein level,INF2,"[u'C14orf151', u'C14orf173', u'MGC13251']",[u'Nuclear bodies'],[u'Endoplasmic reticulum']
+F5H2J1,MYO3B,None,ENSG00000071909,Evidence at protein level,MYO3B,[],None,None
+Q14966,ZNF638,None,ENSG00000075292,Evidence at protein level,ZNF638,"[u'MGC26130', u'NP220', u'ZFML', u'Zfp638']",[u'Vesicles'],[u'Nucleoplasm']
+Q9NTI5,PDS5B,None,ENSG00000083642,Evidence at protein level,PDS5B,"[u'APRIN', u'AS3', u'CG008', u'FLJ23236', u'KIAA0979']",None,[u'Nucleoplasm']
+O76003,GLRX3,None,ENSG00000108010,Evidence at protein level,GLRX3,"[u'bA500G10.4', u'GLRX4', u'GRX3', u'GRX4', u'PICOT', u'TXNL2']",None,None
+O14579,COPE,None,ENSG00000105669,Evidence at protein level,COPE,[u'epsilon-COP'],None,[u'Golgi apparatus']
+Q2TAZ0,ATG2A,None,ENSG00000110046,Evidence at protein level,ATG2A,[u'KIAA0404'],[u'Nucleoplasm'],[u'Vesicles']
+H0Y7Y8,ARID4B,None,ENSG00000054267,Evidence at protein level,ARID4B,"[u'BCAA', u'BRCAA1', u'RBP1L1', u'SAP180']",[u'Nucleoplasm'],"[u'Mitochondria', u'Cytosol']"
+Q4U2R6,MRPL51,None,ENSG00000111639,Evidence at protein level,MRPL51,"[u'bMRP64', u'CDA09', u'HSPC241', u'MRP64']",None,[u'Mitochondria']
+Q8N7H5,PAF1,[u'Tumor suppressor'],ENSG00000006712,Evidence at protein level,PAF1,"[u'F23149_1', u'FLJ11123', u'PD2']",None,[u'Nucleoplasm']
+Q14094,CCNI,None,ENSG00000118816,Evidence at protein level,CCNI,[u'CCNI1'],"[u'Nucleoplasm', u'Nuclear bodies']",[u'Golgi apparatus']
+A0A087WW38,CRYL1,None,ENSG00000165475,Evidence at protein level,CRYL1,"[u'GDH', u'lambda-CRY', u'MGC149525', u'MGC149526']","[u'Golgi apparatus', u'Plasma membrane']","[u'Nucleoplasm', u'Nucleoli']"
+O15047,SETD1A,"[u'Disease variant', u'Epilepsy']",ENSG00000099381,Evidence at protein level,SETD1A,"[u'KIAA0339', u'KMT2F', u'Set1']",None,[u'Nuclear speckles']
+M0QYV0,,None,ENSG00000121410,Evidence at protein level,A1BG,[],None,None
+K7ENW2,ZNF286A,None,ENSG00000187607,Evidence at protein level,ZNF286A,"[u'KIAA1874', u'ZNF286']",None,[u'Nucleoli']
+O00398,P2RY10,None,ENSG00000078589,Evidence at protein level,P2RY10,[u'P2Y10'],None,None
+O95455,TGDS,[u'Disease variant'],ENSG00000088451,Evidence at protein level,TGDS,"[u'SDR2E1', u'TDPGD']","[u'Nucleoli', u'Cytosol']",[u'Nucleoplasm']
+P23258,TUBG1,"[u'Disease variant', u'FDA approved drug targets', u'Lissencephaly']",ENSG00000131462,Evidence at protein level,TUBG1,"[u'TUBG', u'TUBGCP1']",None,None
+Q16513,PKN2,None,ENSG00000065243,Evidence at protein level,PKN2,"[u'Pak-2', u'PRK2', u'PRKCL2', u'STK7']","[u'Nuclear bodies', u'Plasma membrane', u'Centrosome', u'Cytosol']","[u'Nucleoplasm', u'Intermediate filaments']"
+P43489,TNFRSF4,"[u'Cancer-related genes', u'Disease variant']",ENSG00000186827,Evidence at protein level,TNFRSF4,"[u'ACT35', u'CD134', u'OX40', u'TXGP1L']",None,None
+F8VU68,PIP4K2C,None,ENSG00000166908,Evidence at protein level,PIP4K2C,"[u'FLJ22055', u'PIP5K2C']","[u'Nucleoplasm', u'Plasma membrane']",[u'Cytosol']
+P16383,GCFC2,None,ENSG00000005436,Evidence at protein level,GCFC2,"[u'C2orf3', u'DNABF', u'GCF', u'TCF9']",None,[u'Nucleoplasm']
+Q9C035-4,TRIM5,None,ENSG00000132256,Evidence at protein level,TRIM5,"[u'RNF88', u'TRIM5alpha']",None,[u'Cytosol']
+E9PSF2,STIL,"[u'Cancer-related genes', u'Disease variant', u'Mental retardation', u'Primary microcephaly', u'Proto-oncogene']",ENSG00000123473,Evidence at protein level,STIL,"[u'MCPH7', u'SIL']",None,"[u'Plasma membrane', u'Cytosol']"
+Q9UMS4,PRPF19,None,ENSG00000110107,Evidence at protein level,PRPF19,"[u'hPSO4', u'NMP200', u'PRP19', u'PSO4', u'SNEV', u'UBOX4']",None,[u'Nuclear speckles']
+Q92973,TNPO1,None,ENSG00000083312,Evidence at protein level,TNPO1,"[u'IPO2', u'KPNB2', u'MIP', u'MIP1', u'TRN']","[u'Cytosol', u'Cytoplasmic bodies']",[u'Nucleoplasm']
+Q9Y689,ARL5A,None,ENSG00000162980,Evidence at protein level,ARL5A,[u'ARL5'],None,None
+C9JRM9,ZKSCAN1,None,ENSG00000106261,Evidence at protein level,ZKSCAN1,"[u'KOX18', u'PHZ-37', u'ZNF139', u'ZNF36', u'ZSCAN33']","[u'Nucleoplasm', u'Mitochondria']",[u'Nuclear bodies']
+A2RRP1,NBAS,"[u'Disease variant', u'Dwarfism']",ENSG00000151779,Evidence at protein level,NBAS,[u'NAG'],"[u'Nuclear membrane', u'Nucleoli']",[u'Golgi apparatus']
+A0A0B4J1V8,PPAN-P2RY11,None,ENSG00000243207,Evidence at protein level,PPAN-P2RY11,[],None,None
+Q5T1W1,DDX59,"[u'Ciliopathy', u'Disease variant']",ENSG00000118197,Evidence at protein level,DDX59,"[u'DKFZP564B1023', u'ZNHIT5']",None,"[u'Nucleoplasm', u'Actin filaments']"
+P09525,ANXA4,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000196975,Evidence at protein level,ANXA4,[u'ANX4'],None,[u'Cytosol']
+Q8TB72,PUM2,None,ENSG00000055917,Evidence at protein level,PUM2,"[u'KIAA0235', u'PUMH2']",None,[u'Cytosol']
+Q969Q6,PPP2R3C,"[u'Cone-rod dystrophy', u'Deafness', u'Disease variant']",ENSG00000092020,Evidence at protein level,PPP2R3C,"[u'C14orf10', u'FLJ20644', u'G4-1', u'G5PR']","[u'Golgi apparatus', u'Cytosol']",[u'Nucleoplasm']
+K7ELE9,DCAF15,None,ENSG00000132017,Evidence at protein level,DCAF15,"[u'C19orf72', u'MGC99481']",[u'Vesicles'],[u'Mitochondria']
+Q96RT8,TUBGCP5,None,ENSG00000275835,Evidence at protein level,TUBGCP5,"[u'GCP5', u'KIAA1899']",None,"[u'Centrosome', u'Cytosol']"
+Q15276,RABEP1,[u'Cancer-related genes'],ENSG00000029725,Evidence at protein level,RABEP1,"[u'neurocrescin', u'RAB5EP', u'rabaptin-5', u'RABPT5']",None,[u'Vesicles']
+E7EWP2,TRIO,"[u'Cancer-related genes', u'Disease variant', u'Mental retardation']",ENSG00000038382,Evidence at protein level,TRIO,[u'ARHGEF23'],[u'Vesicles'],[u'Cytosol']
+M0QX76,RPS16,None,ENSG00000105193,Evidence at protein level,RPS16,[u'S16'],None,"[u'Endoplasmic reticulum', u'Cytosol']"
+Q99595,TIMM17A,[u'Cancer-related genes'],ENSG00000134375,Evidence at protein level,TIMM17A,"[u'TIM17', u'TIM17A']",None,"[u'Nucleoplasm', u'Mitochondria']"
+A0A0C4DG02,DNMT3A,"[u'Cancer-related genes', u'Disease variant', u'Dwarfism', u'Mental retardation']",ENSG00000119772,Evidence at protein level,DNMT3A,[],None,[u'Nucleoplasm']
+O75663,TIPRL,None,ENSG00000143155,Evidence at protein level,TIPRL,"[u'dJ69E11.3', u'MGC3794', u'TIP41', u'TIPRL1']",None,"[u'Vesicles', u'Cytosol']"
+E5RHF2,COPS5,None,ENSG00000121022,Evidence at protein level,COPS5,"[u'CSN5', u'JAB1', u'MOV-34', u'SGN5']",None,[u'Nucleoplasm']
+F5H6T4,ITGB7,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000139626,Evidence at protein level,ITGB7,[],None,"[u'Plasma membrane', u'Cytosol']"
+Q9BUT9-2,FAM195A; MCRIP2,None,ENSG00000172366,Evidence at protein level,MCRIP2,"[u'C16orf14', u'FAM195A', u'MGC15416']",None,None
+Q6IQ26,DENND5A,"[u'Disease variant', u'Epilepsy']",ENSG00000184014,Evidence at protein level,DENND5A,"[u'FLJ22354', u'FLJ33829', u'FLJ43455', u'KIAA1091', u'RAB6IP1']",None,"[u'Golgi apparatus', u'Vesicles']"
+Q03111,MLLT1,"[u'Cancer-related genes', u'Proto-oncogene']",ENSG00000130382,Evidence at protein level,MLLT1,"[u'ENL', u'LTG19', u'YEATS1']",[u'Nucleoli fibrillar center'],[u'Nucleoplasm']
+D6RA67,UFSP2,"[u'Disease variant', u'Dwarfism']",ENSG00000109775,Evidence at protein level,UFSP2,"[u'C4orf20', u'FLJ11200']",None,"[u'Nucleoplasm', u'Cytosol']"
+Q92673,SORL1,"[u'Alzheimer disease', u'Amyloidosis', u'Disease variant', u'Neurodegeneration']",ENSG00000137642,Evidence at protein level,SORL1,"[u'C11orf32', u'gp250', u'LR11', u'LRP9', u'SorLA', u'SorLA-1']",None,None
+P62906,RPL10A,None,ENSG00000198755,Evidence at protein level,RPL10A,"[u'Csa-19', u'L10A', u'NEDD6']",[u'Nucleoli'],"[u'Endoplasmic reticulum', u'Cytosol']"
+Q9P2D3,HEATR5B,None,ENSG00000008869,Evidence at protein level,HEATR5B,"[u'DKFZp686P15184', u'KIAA1414']",None,"[u'Nuclear speckles', u'Vesicles', u'Cytosol']"
+Q9BW60,ELOVL1,"[u'Disease variant', u'Ichthyosis']",ENSG00000066322,Evidence at protein level,ELOVL1,[u'Ssc1'],None,[u'Endoplasmic reticulum']
+H7C3Q6,MITD1,None,ENSG00000158411,Evidence at protein level,MITD1,[u'LOC129531'],None,[u'Vesicles']
+P12931,SRC,"[u'Cancer-related genes', u'Disease variant', u'FDA approved drug targets', u'Proto-oncogene']",ENSG00000197122,Evidence at protein level,SRC,"[u'ASV', u'c-src', u'SRC1']","[u'Nucleoplasm', u'Cytosol']","[u'Plasma membrane', u'Cell Junctions']"
+E9PDE8,HSPA4L,None,ENSG00000164070,Evidence at protein level,HSPA4L,"[u'APG-1', u'HSPH3', u'Osp94']",None,"[u'Centrosome', u'Cytosol']"
+P09601,HMOX1,[u'Cancer-related genes'],ENSG00000100292,Evidence at protein level,HMOX1,"[u'bK286B10', u'HO-1']",None,"[u'Golgi apparatus', u'Plasma membrane']"
+A0A087X1I3,SDHA,"[u'Cancer-related genes', u'Cardiomyopathy', u'Disease variant', u'Leigh syndrome', u'Primary mitochondrial disease', u'Tumor suppressor']",ENSG00000073578,Evidence at protein level,SDHA,"[u'FP', u'SDH2', u'SDHF']",[u'Nucleoli'],[u'Mitochondria']
+H0Y6F5,ZHX3,None,ENSG00000174306,Evidence at protein level,ZHX3,"[u'KIAA0395', u'TIX1']",None,[u'Nucleoplasm']
+Q9NYU1,UGGT2,None,ENSG00000102595,Evidence at protein level,UGGT2,"[u'FLJ10873', u'FLJ11485', u'HUGT2', u'MGC117360', u'MGC150689', u'MGC87276', u'UGCGL2']",None,None
+Q96P11,NSUN5,[u'Williams-Beuren syndrome'],ENSG00000130305,Evidence at protein level,NSUN5,"[u'FLJ10267', u'NOL1R', u'NSUN5A', u'p120(NOL1)', u'WBSCR20', u'WBSCR20A', u'Ynl022cL']",None,"[u'Nucleoplasm', u'Nucleoli']"
+Q99075,HBEGF,None,ENSG00000113070,Evidence at protein level,HBEGF,"[u'DTR', u'DTS', u'HEGFL']",None,None
+P50616,TOB1,None,ENSG00000141232,Evidence at protein level,TOB1,"[u'APRO5', u'TOB', u'TROB', u'TROB1']",[u'Vesicles'],[u'Nucleoplasm']
+Q14137,BOP1,None,ENSG00000261236,Evidence at protein level,BOP1,[u'KIAA0124'],"[u'Nucleoplasm', u'Mitotic chromosome']","[u'Nucleoli', u'Nucleoli rim']"
+Q9GZR1,SENP6,None,ENSG00000112701,Evidence at protein level,SENP6,"[u'KIAA0797', u'SUSP1']",[u'Cytosol'],[u'Nucleoplasm']
+Q8N4H5,TOMM5,None,ENSG00000175768,Evidence at protein level,TOMM5,"[u'bA613M10.3', u'C9orf105', u'Tom5']",None,[u'Mitochondria']
+Q9BRQ8,AIFM2,None,ENSG00000042286,Evidence at protein level,AIFM2,"[u'AMID', u'FLJ14497', u'PRG3']","[u'Plasma membrane', u'Cytosol']",[u'Vesicles']
+Q8WU67,ABHD3,None,ENSG00000158201,Evidence at protein level,ABHD3,[u'LABH3'],[u'Vesicles'],"[u'Nucleoplasm', u'Plasma membrane']"
+Q9BSC4,NOL10,None,ENSG00000115761,Evidence at protein level,NOL10,"[u'FLJ14075', u'PQBP5']",None,[u'Nucleoli']
+O95379,TNFAIP8,None,ENSG00000145779,Evidence at protein level,TNFAIP8,"[u'GG2-1', u'MDC-3.13', u'SCC-S2']",None,[u'Nucleoplasm']
+Q7Z6A9,BTLA,None,ENSG00000186265,Evidence at protein level,BTLA,"[u'BTLA1', u'CD272']",None,None
+Q96MT1,RNF145,None,ENSG00000145860,Evidence at protein level,RNF145,[u'FLJ31951'],None,"[u'Nucleoplasm', u'Plasma membrane', u'Cytosol']"
+Q9Y6J0,CABIN1,None,ENSG00000099991,Evidence at protein level,CABIN1,"[u'KIAA0330', u'PPP3IN']",None,"[u'Nucleoplasm', u'Cytosol']"
+A0A0C4DG33,PEX1,"[u'Amelogenesis imperfecta', u'Deafness', u'Disease variant', u'Peroxisome biogenesis disorder', u'Zellweger syndrome']",ENSG00000127980,Evidence at protein level,PEX1,"[u'ZWS', u'ZWS1']",None,[u'Peroxisomes']
+Q9NSP4,CENPM,None,ENSG00000100162,Evidence at protein level,CENPM,"[u'C22orf18', u'CENP-M', u'MGC861', u'Pane1']",None,None
+Q96L73,NSD1,"[u'Cancer-related genes', u'Disease variant', u'Proto-oncogene']",ENSG00000165671,Evidence at protein level,NSD1,"[u'ARA267', u'FLJ22263', u'KMT3B', u'STO']",None,"[u'Nucleoplasm', u'Plasma membrane']"
+Q92575,UBXN4,None,ENSG00000144224,Evidence at protein level,UBXN4,"[u'KIAA0242', u'UBXD2', u'UBXDC1']",None,[u'Endoplasmic reticulum']
+Q5JTH9,RRP12,None,ENSG00000052749,Evidence at protein level,RRP12,[u'KIAA0690'],"[u'Vesicles', u'Plasma membrane', u'Cytosol']",[u'Nucleoli']
+A2A305,UBAP2,None,ENSG00000137073,Evidence at protein level,UBAP2,"[u'bA176F3.5', u'FLJ22435', u'KIAA1491']",None,[u'Cytosol']
+P17098,ZNF8,None,ENSG00000278129,Evidence at protein level,ZNF8,"[u'HF.18', u'Zfp128']",None,"[u'Nucleoplasm', u'Nuclear bodies']"
+Q9NX24,NHP2,"[u'Disease variant', u'Dyskeratosis congenita']",ENSG00000145912,Evidence at protein level,NHP2,"[u'FLJ20479', u'NOLA2']",None,None
+Q8TAE8,GADD45GIP1,None,ENSG00000179271,Evidence at protein level,GADD45GIP1,"[u'CKBBP2', u'CKbetaBP2', u'CRIF1', u'MGC4667', u'MGC4758', u'PLINP-1', u'Plinp1', u'PRG6']",[u'Nucleoplasm'],[u'Mitochondria']
+Q9P287,BCCIP,None,ENSG00000107949,Evidence at protein level,BCCIP,"[u'BCCIPalpha', u'TOK-1']",[u'Cytosol'],[u'Nucleoplasm']
+C9J5X9,FANCB,[u'Fanconi anemia'],ENSG00000181544,Evidence at protein level,FANCB,"[u'FAAP95', u'FAB', u'FLJ34064']",None,None
+M0QYY8,DAPK3,[u'Tumor suppressor'],ENSG00000167657,Evidence at protein level,DAPK3,"[u'ZIP', u'ZIPK']",[u'Nucleoplasm'],[u'Cytosol']
+P42680,TEC,None,ENSG00000135605,Evidence at protein level,TEC,[u'PSCTK4'],None,[u'Plasma membrane']
+Q01518,CAP1,None,ENSG00000131236,Evidence at protein level,CAP1,[u'CAP'],None,[u'Cytosol']
+Q8TAP9,MPLKIP,[u'Disease variant'],ENSG00000168303,Evidence at protein level,MPLKIP,"[u'C7orf11', u'ORF20', u'TTDN1']","[u'Golgi apparatus', u'Vesicles']",[u'Nucleoplasm']
+Q9NZ08,ERAP1,None,ENSG00000164307,Evidence at protein level,ERAP1,"[u'A-LAP', u'ARTS-1', u'ERAAP1', u'KIAA0525', u'PILS-AP']",[u'Plasma membrane'],"[u'Nucleoplasm', u'Cytosol']"
+Q3KNW5,SLC10A6,None,ENSG00000145283,Evidence at protein level,SLC10A6,[u'SOAT'],None,None
+P56556,NDUFA6,"[u'Disease variant', u'Primary mitochondrial disease']",ENSG00000184983,Evidence at protein level,NDUFA6,"[u'B14', u'CI-B14', u'LYRM6', u'NADHB14']",None,None
+P42766,RPL35,"[u'Diamond-Blackfan anemia', u'Disease variant']",ENSG00000136942,Evidence at protein level,RPL35,[u'L35'],None,"[u'Endoplasmic reticulum', u'Cytosol']"
+Q9Y244,POMP,"[u'Ichthyosis', u'Palmoplantar keratoderma']",ENSG00000132963,Evidence at protein level,POMP,"[u'C13orf12', u'HSPC014', u'UMP1']",None,[u'Nuclear speckles']
+B4E127,TDG,None,ENSG00000139372,Evidence at protein level,TDG,[],[u'Plasma membrane'],[u'Nucleoplasm']
+K7ELB8,PLEKHF1,None,ENSG00000166289,Evidence at protein level,PLEKHF1,"[u'APPD', u'MGC4090', u'PHAFIN1', u'ZFYVE15']",None,None
+P54819,AK2,"[u'Disease variant', u'SCID']",ENSG00000004455,Evidence at protein level,AK2,[],None,[u'Mitochondria']
+G5E9C2,NFKBIB,None,ENSG00000104825,Evidence at protein level,NFKBIB,"[u'IKBB', u'TRIP9']",[u'Cytosol'],[u'Nucleoplasm']
+Q96EY7,PTCD3,None,ENSG00000132300,Evidence at protein level,PTCD3,"[u'DKFZp666K071', u'FLJ20758']",None,[u'Mitochondria']
+P51587,BRCA2,"[u'Cancer-related genes', u'Disease variant', u'Fanconi anemia', u'Tumor suppressor']",ENSG00000139618,Evidence at protein level,BRCA2,"[u'BRCC2', u'FACD', u'FAD', u'FAD1', u'FANCD', u'FANCD1', u'XRCC11']",[u'Cytosol'],[u'Nucleoplasm']
+Q13098,GPS1,None,ENSG00000169727,Evidence at protein level,GPS1,"[u'COPS1', u'CSN1']",[u'Cytosol'],[u'Nucleoplasm']
+C9JZJ1,STK17B,None,ENSG00000081320,Evidence at protein level,STK17B,[u'DRAK2'],None,"[u'Plasma membrane', u'Cytosol']"
+V9GYM8,ARHGEF2,[u'Mental retardation'],ENSG00000116584,Evidence at protein level,ARHGEF2,"[u'GEF-H1', u'GEFH1', u'KIAA0651', u'Lfc', u'LFP40', u'P40']",None,None
+Q9Y2L9-2,LRCH1,None,ENSG00000136141,Evidence at protein level,LRCH1,"[u'CHDC1', u'KIAA1016']",[u'Nucleoli'],"[u'Actin filaments', u'Cytosol']"
+Q13099,IFT88,None,ENSG00000032742,Evidence at protein level,IFT88,"[u'D13S1056E', u'hTg737', u'MGC26259', u'Tg737', u'TTC10']",None,None
+Q0VDF9,HSPA14,None,ENSG00000187522,Evidence at protein level,HSPA14,"[u'HSP70-4', u'HSP70L1']",None,None
+Q5T6J7,IDNK,None,ENSG00000148057,Evidence at protein level,IDNK,"[u'bA522I20.2', u'C9orf103', u'hGntK']",None,"[u'Mitochondria', u'Cytosol']"
+Q9Y573,IPP,None,ENSG00000197429,Evidence at protein level,IPP,[u'KLHL27'],None,None
+Q9BVK6,TMED9,None,ENSG00000184840,Evidence at protein level,TMED9,"[u'HSGP25L2G', u'p24a2', u'p24alpha2']",None,None
+A0A0C4DGS9,CEPT1,None,ENSG00000134255,Evidence at protein level,CEPT1,[],None,None
+O95456,PSMG1,None,ENSG00000183527,Evidence at protein level,PSMG1,"[u'c21-LRP', u'DSCR2', u'LRPC21', u'PAC1']",None,"[u'Nucleoplasm', u'Golgi apparatus', u'Cytosol']"
+Q15691,MAPRE1,None,ENSG00000101367,Evidence at protein level,MAPRE1,[u'EB1'],None,"[u'Centriolar satellite', u'Cytosol']"
+P04839,CYBB,"[u'Chronic granulomatous disease', u'Disease variant']",ENSG00000165168,Evidence at protein level,CYBB,"[u'CGD', u'GP91-PHOX', u'NOX2']",None,None
+Q9BWT3,PAPOLG,None,ENSG00000115421,Evidence at protein level,PAPOLG,[u'FLJ12972'],None,[u'Nucleoplasm']
+Q9H3E2,SNX25,[u'Cancer-related genes'],ENSG00000109762,Evidence at protein level,SNX25,[u'SBBI31'],None,[u'Vesicles']
+H7C1J4,UHRF1BP1,None,ENSG00000065060,Evidence at protein level,UHRF1BP1,"[u'C6orf107', u'dJ349A12.1', u'FLJ20302', u'ICBP90']",[u'Cytosol'],"[u'Nucleoplasm', u'Nuclear membrane']"
+Q8NB78,KDM1B,None,ENSG00000165097,Evidence at protein level,KDM1B,"[u'AOF1', u'bA204B7.3', u'C6orf193', u'dJ298J15.2', u'FLJ33898', u'FLJ34109', u'FLJ43328', u'LSD2']",None,[u'Nucleoplasm']
+H0Y9Y0,FBXL5,None,ENSG00000118564,Evidence at protein level,FBXL5,"[u'FBL4', u'FBL5', u'FLR1']",None,None
+Q9BSF4,C19orf52; TIMM29,None,ENSG00000142444,Evidence at protein level,TIMM29,"[u'C19orf52', u'TIM29']",[u'Nucleoplasm'],[u'Mitochondria']
+Q96JQ0,DCHS1,"[u'Deafness', u'Disease variant', u'Mental retardation']",ENSG00000166341,Evidence at protein level,DCHS1,"[u'CDH25', u'CDHR6', u'FIB1', u'FLJ11790', u'KIAA1773', u'PCDH16']",None,[u'Plasma membrane']
+P17858,PFKL,None,ENSG00000141959,Evidence at protein level,PFKL,[],None,"[u'Nucleoli', u'Mitochondria']"
+Q16739,UGCG,[u'FDA approved drug targets'],ENSG00000148154,Evidence at protein level,UGCG,[u'GCS'],None,None
+Q13200,PSMD2,None,ENSG00000175166,Evidence at protein level,PSMD2,"[u'MGC14274', u'P97', u'Rpn1', u'S2', u'TRAP2']",None,None
+A0A075B7D0,IGHV1OR15-1,None,ENSG00000270505,Evidence at transcript level,IGHV1OR15-1,[u'IGHV1/OR15-1'],None,None
+A0A0C4DFX2,FRY,None,ENSG00000073910,Evidence at protein level,FRY,"[u'13CDNA73', u'bA37E23.1', u'C13orf14', u'CG003']",None,None
+Q2T9J0,TYSND1,None,ENSG00000156521,Evidence at protein level,TYSND1,"[u'MGC34695', u'NET41']",[u'Cytosol'],"[u'Nucleoplasm', u'Centrosome']"
+Q8TCJ0-3,FBXO25,None,ENSG00000147364,Evidence at protein level,FBXO25,[u'FBX25'],None,None
+P25786,PSMA1,None,ENSG00000129084,Evidence at protein level,PSMA1,"[u'HC2', u'MGC14542', u'MGC14575', u'MGC14751', u'MGC1667', u'MGC21459', u'MGC22853', u'MGC23915', u'NU', u'PROS30']","[u'Nuclear bodies', u'Centrosome']",[u'Nucleoplasm']
+P15291,B4GALT1,[u'Congenital disorder of glycosylation'],ENSG00000086062,Evidence at protein level,B4GALT1,"[u'beta4Gal-T1', u'GGTB2']",None,[u'Golgi apparatus']
+Q6Q0C0,TRAF7,"[u'Cancer-related genes', u'Disease variant']",ENSG00000131653,Evidence at protein level,TRAF7,"[u'DKFZp586I021', u'MGC7807', u'RFWD1', u'RNF119']",[u'Plasma membrane'],[u'Vesicles']
+Q92968,PEX13,"[u'Disease variant', u'Peroxisome biogenesis disorder', u'Zellweger syndrome']",ENSG00000162928,Evidence at protein level,PEX13,[],None,[u'Peroxisomes']
+E9PC69,MARK2,None,ENSG00000072518,Evidence at protein level,MARK2,"[u'EMK1', u'PAR-1', u'PAR-1B', u'Par1b']",[u'Nucleoplasm'],[u'Plasma membrane']
+K7EKL8,ICAM1,"[u'Cancer-related genes', u'FDA approved drug targets']",ENSG00000090339,Evidence at protein level,ICAM1,"[u'BB2', u'CD54']","[u'Vesicles', u'Cytosol']",[u'Plasma membrane']
+O75534,CSDE1,[u'Cancer-related genes'],ENSG00000009307,Evidence at protein level,CSDE1,"[u'D1S155E', u'UNR']",None,"[u'Plasma membrane', u'Cytosol']"

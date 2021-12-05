@@ -46,7 +46,7 @@ def main():
             # Don't hammer the API
             time.sleep(0.5)
             
-    with open("gene_query_results.json", "w") as f:
+    with open("query_results.json", "w") as f:
         f.write(json.dumps(results))
 
 
